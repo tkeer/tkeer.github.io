@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cdb76f64da02cba721d7b08703008d97.js"
+  "/precache-manifest.eeb44c7f744f73fea3c449ae995dabed.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "amsl_referlo"});
