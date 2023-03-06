@@ -1147,7 +1147,7 @@ __webpack_require__.r(__webpack_exports__);
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 const environment = {
-  local: true,
+  local: false,
   production: false,
   apiUrl: 'https://simmerp.zupria.com/eshop',
   mApiUrl: 'https://simmerp.zupria.com/eshop',
