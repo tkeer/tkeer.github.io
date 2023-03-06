@@ -1149,7 +1149,7 @@ __webpack_require__.r(__webpack_exports__);
 const environment = {
   local: true,
   production: false,
-  apiUrl: 'http://192.168.0.74:8083',
+  apiUrl: 'https://simmerp.zupria.com/eshop',
   mApiUrl: 'https://simmerp.zupria.com/eshop',
   lunaServiceUrl: ''
 };
