@@ -191,7 +191,7 @@ class AppComponent extends _core_common_auto_destroy__WEBPACK_IMPORTED_MODULE_1_
     });
   }
   onbeforeinstallprompt(e) {
-    e.preventDefault();
+    // e.preventDefault();
     this.pwaInstallEvent = e;
   }
 }
@@ -201,13 +201,6 @@ AppComponent.ɵfac = function AppComponent_Factory(t) {
 AppComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵdefineComponent"]({
   type: AppComponent,
   selectors: [["app-root"]],
-  hostBindings: function AppComponent_HostBindings(rf, ctx) {
-    if (rf & 1) {
-      _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵlistener"]("beforeinstallprompt", function AppComponent_beforeinstallprompt_HostBindingHandler($event) {
-        return ctx.onbeforeinstallprompt($event);
-      }, false, _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵresolveWindow"]);
-    }
-  },
   features: [_angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵInheritDefinitionFeature"]],
   decls: 3,
   vars: 2,
