@@ -1,0 +1,147 @@
+{
+  "configVersion": 1,
+  "timestamp": 1678109890731,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/default-src_app_account_pages_addresses_edit_edit_component_ts-src_app_core_guards_auth_guard-2abda9.js",
+        "/default-src_app_auth_components_dialog-login_dialog-login_component_ts.js",
+        "/default-src_app_cart_cart_module_ts.js",
+        "/default-src_app_core_common_form2_ts-node_modules_angular_material_fesm2020_expansion_mjs.js",
+        "/default-src_app_product-category_category_category_module_ts.js",
+        "/default-src_app_product-swiper_product-swiper_module_ts.js",
+        "/default-src_app_shared_shared_module_ts.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.js",
+        "/manifest.webmanifest",
+        "/polyfills.js",
+        "/runtime.js",
+        "/src_app_account_account_module_ts.js",
+        "/src_app_auth_auth_module_ts.js",
+        "/src_app_checkout_checkout_module_ts.js",
+        "/src_app_core_common_form2_ts.js",
+        "/src_app_dashboard_dashboard_module_ts.js",
+        "/src_app_product-category_product_product_module_ts.js",
+        "/styles.css",
+        "/vendor.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/i18n/category/en.json",
+        "/assets/i18n/category/ro.json",
+        "/assets/i18n/en.json",
+        "/assets/i18n/shared/en.json",
+        "/assets/i18n/shared/ro.json",
+        "/assets/icons/favorite.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/package-box.svg",
+        "/assets/icons/ruler.png",
+        "/assets/icons/ruler.svg",
+        "/assets/icons/success.svg",
+        "/assets/icons/swiper-next.svg",
+        "/assets/images/credit-card.png",
+        "/assets/images/logo.png",
+        "/assets/images/send_mail.png",
+        "/assets/images/send_mail_large.png",
+        "/assets/images/send_mail_md.png",
+        "/assets/images/shopping-bag.png",
+        "/assets/images/user_avatar.jpg",
+        "/assets/images/user_avatar.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/i18n/category/en.json": "572bffa8e807f620960ceb2c86fccb104052ad3e",
+    "/assets/i18n/category/ro.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "/assets/i18n/en.json": "aad702b52fbb2eae918e39c7069ff3b656e95c77",
+    "/assets/i18n/shared/en.json": "bbc7e332938b181dfd0249abc4faec7e81921e27",
+    "/assets/i18n/shared/ro.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "/assets/icons/favorite.svg": "aeac053a42b9f560a96c1089a9003d6990b27883",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/package-box.svg": "b10de7959864d42dc681c890067363411f9013ea",
+    "/assets/icons/ruler.png": "d52d140d53a38c9d53d322e9123e37bffa888d21",
+    "/assets/icons/ruler.svg": "4cf06dc14c4b57c462e2388225a2381d3a33aef0",
+    "/assets/icons/success.svg": "a6cbe601c23ee3ce8ff04456bb37eb3ed36c27f6",
+    "/assets/icons/swiper-next.svg": "7a40bb8af9702c3e27bf231f8c2e34770ff04abb",
+    "/assets/images/credit-card.png": "16866f7a07859d64a7ddfc5ee36dedbb8ebb963d",
+    "/assets/images/logo.png": "74f7d53960f40ba7114f74fe7e66bc91ba2485cb",
+    "/assets/images/send_mail.png": "b6e0edf0ea19fd032fefaf86c15a29ab6adcf041",
+    "/assets/images/send_mail_large.png": "9b6270dda2a3846f52372dff33312af8a2e9940c",
+    "/assets/images/send_mail_md.png": "3b9c89ac1137a56d51d67b806c1f6307a25c8a4b",
+    "/assets/images/shopping-bag.png": "fe732557b05a655a3323501fa80e94c4b9852c8b",
+    "/assets/images/user_avatar.jpg": "8dba6af4a8e45dc3390fa532eb5a0f2d6e6fff76",
+    "/assets/images/user_avatar.png": "1e1d8fd37c28361b0c89b47f9448c979f15d1a65",
+    "/default-src_app_account_pages_addresses_edit_edit_component_ts-src_app_core_guards_auth_guard-2abda9.js": "335556bd3734edf169aa750eb9d259f38e862548",
+    "/default-src_app_auth_components_dialog-login_dialog-login_component_ts.js": "8b7f7bcd54d6d25e7910639bfb43e29824ebd597",
+    "/default-src_app_cart_cart_module_ts.js": "50176fb26ebbb327666979ff5ee46c287260297c",
+    "/default-src_app_core_common_form2_ts-node_modules_angular_material_fesm2020_expansion_mjs.js": "ac115a46dd5821cb7e3cb13a6b0884299f8e8c81",
+    "/default-src_app_product-category_category_category_module_ts.js": "907c220a9061b071b54f797924d9e8b7e8209fb2",
+    "/default-src_app_product-swiper_product-swiper_module_ts.js": "ab919ddcf85048bfd8c5e4386fb28258b546659c",
+    "/default-src_app_shared_shared_module_ts.js": "5f30148178a890ab14b76d2c7d81f114789de0d4",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "5698b1afa8fedd28a09fa44d21fcfe42ae5c4621",
+    "/main.js": "46ea1f1ef7b673ffdff4e1568490942a05e6596c",
+    "/manifest.webmanifest": "d7ad5130a466a43d29ec49db383fd85e58f254cc",
+    "/polyfills.js": "a5ddef88d7af95946cdfd8965198bc210a5b3b93",
+    "/runtime.js": "73a86732f6cee652e4213a704a06e4450b942598",
+    "/src_app_account_account_module_ts.js": "5a5990451fe0e7fbf92775fd5234e0fe8225be6a",
+    "/src_app_auth_auth_module_ts.js": "52110037a0a71153cb686236af4110b613ef5279",
+    "/src_app_checkout_checkout_module_ts.js": "530d48d964b942305506bb9a209102d3e821ca6e",
+    "/src_app_core_common_form2_ts.js": "d1e982710d8612f143c07b34fafb4b05372170a3",
+    "/src_app_dashboard_dashboard_module_ts.js": "a4223e0b1153d9d816cc7781d4ab55747355e1de",
+    "/src_app_product-category_product_product_module_ts.js": "38d2414832a6ac1f915f0df95e6939e7aa527134",
+    "/styles.css": "3cdc084e87fade787c6d7e1c8f1ed0372eecfc06",
+    "/vendor.js": "a53841459c6d73e6b9b00fdf3663537a360e83b3"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
