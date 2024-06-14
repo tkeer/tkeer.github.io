@@ -1,0 +1,51 @@
+{
+	"auth-title": "Auth",
+	"account": {
+		"locked-until": "Aus Sicherheitsgründen ist Ihr Konto gesperrt für",
+		"create-new": "Wenn Sie den Zugriff auf das Konto verloren haben, können Sie ein neues erstellen",
+		"create-title": "Konto erstellen"
+	},
+	"minutes": "Minuten",
+	"locked": {
+		"duration": "Konto ist für {{minutes}} Minuten gesperrt"
+	},
+	"confirmation-otp-sent": "Wir haben Ihnen einen Code per E-Mail gesendet. Bitte füllen Sie das untenstehende Feld aus. (Optional: Sie haben einen Link in der E-Mail als alternative Bestätigung)",
+	"send-otp": "OTP-Code senden",
+	"security-questions": {
+		"title": "Sicherheitsfragen",
+		"select": "Wählen Sie 3 Sicherheitsfragen",
+		"missing": "Als erhöhte Sicherheitsmaßnahme richten Sie bitte die Antworten auf 3 der folgenden Sicherheitsfragen ein. Sie können diesen Schritt jetzt überspringen, obwohl dies nicht empfohlen wird, da Sie, wenn Sie den Zugriff auf Ihre E-Mail-Adresse verlieren, den Zugriff auf Ihr Konto nicht wiederherstellen können.",
+		"skip-btn": "Für jetzt überspringen",
+		"ans_required": "Die Antwort auf die Frage sollte nicht leer sein",
+		"atleast-3": "Wählen Sie mindestens 3 Fragen.",
+		"question": "Frage #{{i}}",
+		"answer": "Antwort #{{i}}"
+	},
+	"question": "Frage",
+	"answer": "Antwort",
+	"reset-password": {
+		"reset": "Passwort zurücksetzen",
+		"reset-your": "Setzen Sie Ihr Passwort zurück",
+		"check-email": "Bitte überprüfen Sie Ihre E-Mail, um den Link zum Zurücksetzen des Passworts zu erhalten",
+		"input-email": "Geben Sie Ihre E-Mail-Adresse ein, um das Passwort zurückzusetzen.",
+		"updated": "Ihr Passwort wurde erfolgreich geändert!",
+		"set-new": "Neues Passwort festlegen",
+		"type_password": "Geben Sie Ihr neues Passwort ein",
+		"retype_password": "Wiederholen Sie Ihr neues Passwort"
+	},
+	"forgot-email": {
+		"current-email": "Aktuelle E-Mail-Adresse",
+		"updated": "Ihre E-Mail-Adresse wurde erfolgreich geändert!",
+		"input-new": "Neue E-Mail-Adresse festlegen",
+		"import-history": "Die Historie und alle Details werden von der verlorenen übernommen.",
+		"email-changed": "Ihre E-Mail-Adresse wurde erfolgreich geändert"
+	},
+	"email-label": "E-Mail-Adresse",
+	"zaidra-network": {
+		"account-exist": "Diese Seite ist Teil des Zaídra-Netzwerks und es scheint, dass Sie bereits ein Konto mit einem Passwort auf einer anderen Seite des Netzwerks eingerichtet haben.",
+		"same-pw-for-network": "Bitte beachten Sie, dass Sie dasselbe Passwort auf allen Websites des Zaídra-Netzwerks verwenden können, auf denen Sie sich zuvor angemeldet haben: {{sites}} usw."
+	},
+	"existing_account": "Online-Shop, bei dem Sie bereits ein Konto mit einem Passwort eingerichtet haben",
+	"same_email": "Daher können Sie dieselbe E-Mail-Adresse und dasselbe Passwort für die Authentifizierung verwenden, Ihre Daten sind auf allen Websites im Zaídra-Netzwerk sicher.",
+	"password_requirements": "Das Passwort muss mindestens 8 Zeichen lang sein und muss mindestens einen Großbuchstaben, einen Kleinbuchstaben, eine Ziffer und ein Sonderzeichen enthalten."
+}

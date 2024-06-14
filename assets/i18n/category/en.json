@@ -1,7 +1,25 @@
 {
-  "filters": {
-    "categories": "Categories"
-  },
-  "desc": "Newest",
-  "asc": "Oldest"
+	"filters": {
+		"categories": "Categories",
+		"product": "Product",
+		"brands": "Brand",
+		"priceRanges": "Price",
+		"rating": "Minimum rating"
+	},
+	"desc": "Newest",
+	"id_sort,desc": "Newest",
+	"sellingPriceWithVat,asc": "Price ↑",
+	"sellingPriceWithVat,desc": "Price ↓",
+	"rating,asc": "Rating ↑",
+	"rating,desc": "Rating ↓",
+	"asc": "Oldest",
+	"cat_filters": "Filters",
+	"view_all": "View all categories",
+	"del_filters": "Delete filters",
+	"view_products": "View products",
+	"page": "page",
+	"sort_by": "Sort by",
+	"read_more": "Read more",
+	"read_less": "Read less",
+	"num_products_found": "{{count}} products found"
 }

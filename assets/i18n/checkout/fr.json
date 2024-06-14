@@ -1,0 +1,87 @@
+{
+	"observations": "Observations",
+	"add_observations": "Tapez vos observations...",
+	"gift_message": "Message cadeau",
+	"add_message": "Tapez votre message...",
+	"customizing_image": "Ajouter une image personnalisée pour le produit",
+	"upload_file": "Télécharger le fichier",
+	"order_details": "Détails de la commande",
+	"change": "Changer",
+	"billing_address": "Adresse de facturation",
+	"delivery_options": "Options de livraison",
+	"payment_method": "Méthode de paiement",
+	"consent": "Demander le consentement en divulguant clairement à quoi le consentement est donné et comment les données seront utilisées.",
+	"find_more": "En savoir plus",
+	"items": "articles",
+	"same_as_del": "Identique à l'adresse de livraison",
+	"arrival_estimated": "Arrivée estimée à",
+	"total": "Total",
+	"thankYou": "Merci",
+	"order_placed": "Votre commande a été passée avec succès.",
+	"pickupStore": {
+		"title": "Magasin de retrait:",
+		"change": "Changer",
+		"select": "Sélectionner le magasin de retrait"
+	},
+	"order": {
+		"condition": {
+			"descr": "En passant votre commande, vous acceptez nos",
+			"terms_conditions": "Termes et Conditions",
+			"privacy": "Politique de Confidentialité"
+		},
+		"return_policy": {
+			"title": "Politique de retour",
+			"return_in": "Vous avez {{days}} jours pour retourner le produit."
+		},
+		"delivery": {
+			"title": "Livraison",
+			"address": "Adresse de livraison",
+			"option": "Option de livraison",
+			"track_progress": "Suivez la progression de votre commande en temps réel",
+			"money-back": "Retours avec remboursement de 30 jours si vous changez d'avis",
+			"missing_address": "Vous devez sélectionner ou ajouter une adresse de livraison"
+		},
+		"billing": {
+			"missing_address": "Vous devez sélectionner ou ajouter une adresse de facturation"
+		},
+		"address": {
+			"add_new": "Ajouter une nouvelle adresse",
+			"new": "Ajouter nouveau"
+		},
+		"payment-error": {
+			"title": "Paiement refusé",
+			"subtitle": "Votre paiement a été refusé en raison de l'erreur suivante :",
+			"retry": "Réessayer le paiement"
+		},
+		"place": "Passer votre commande",
+		"summary": "Résumé de la commande",
+		"your_order": "Votre commande",
+		"cart_items": "Résumé de la commande ({{count}} articles)",
+		"choose_locker": "Choisir casier",
+		"invalid_state": "Commande en état non valide.",
+		"select_locker": "Veuillez sélectionner un casier pour continuer le processus de paiement.",
+		"empty_cart": "Votre panier est vide",
+		"see_recommendations": "Voir les recommandations"
+	},
+	"thank_you": {
+		"congrats": "Merci {{name}} pour votre commande !",
+		"email_sent": "Nous avons envoyé un email à l'adresse",
+		"del_address": "Votre commande est en cours de livraison à l'adresse :",
+		"track_through_email": "Si vous souhaitez suivre votre commande, vous pouvez le faire en suivant les instructions que nous vous avons envoyées par email.",
+		"bank": {
+			"details": "La commande sera expédiée uniquement après confirmation de la réception par virement bancaire. Pour effectuer le virement bancaire, veuillez utiliser les données suivantes :",
+			"benef": "BÉNÉFICIAIRE",
+			"iban": "IBAN",
+			"swift": "BIC",
+			"amount": "MONTANT",
+			"reference": "RÉFÉRENCE",
+			"note": "Il est très important que vous mentionniez la référence ci-dessus dans la description du virement bancaire !"
+		}
+	},
+	"steps": {
+		"Cart": "Panier",
+		"Order details": "Détails de la commande",
+		"Order summary": "Résumé de la commande",
+		"Place order": "Passer la commande"
+	}
+}

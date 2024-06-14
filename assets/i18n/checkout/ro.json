@@ -1,0 +1,87 @@
+{
+	"observations": "Observații",
+	"add_observations": "Introdu aici observațiile tale (dacă sunt)...",
+	"gift_message": "Mesaj pentru cadou",
+	"add_message": "Introdu aici mesajul tău ...",
+	"customizing_image": "Adăugă o imagine de personalizare pentru produs",
+	"upload_file": "Încarcă fișierul",
+	"order_details": "Detaliile comenzii",
+	"change": "Schimbă",
+	"billing_address": "Adresa de facturare",
+	"delivery_options": "Opțiuni de livrare",
+	"payment_method": "Metodă de plată",
+	"consent": "Solicitarea consimțământului prin dezvăluirea clară pentru ce se acordă consimțământul și cum vor fi utilizate datele.",
+	"find_more": "Aflămai multe",
+	"items": "articole",
+	"same_as_del": "La fel ca adresa de livrare",
+	"arrival_estimated": "Sosirea estimată la",
+	"total": "Total",
+	"thankYou": "Mulțumim",
+	"order_placed": "Comanda a fost plasată cu succes.",
+	"pickupStore": {
+		"title": "Preluare din magazin:",
+		"change": "Schimbă",
+		"select": "Selectează magazinul"
+	},
+	"order": {
+		"condition": {
+			"descr": "Prin plasarea comenzii, ești de acord cu",
+			"terms_conditions": "Termeni și condiții",
+			"privacy": "Politica de confidențialitate"
+		},
+		"return_policy": {
+			"title": "Politica de retur",
+			"return_in": "Nu uita! Poți returna produsul în {{days}} zile."
+		},
+		"delivery": {
+			"title": "Livrare",
+			"address": "Adresa de livrare",
+			"option": "Opțiune de livrare",
+			"track_progress": "Urmărește progresul comenzii tale în timp real",
+			"money-back": "Retur în 30 de zile dacă te răzgândești",
+			"missing_address": "Trebuie să selectezi sau să adaugi o adresă de livrare"
+		},
+		"billing": {
+			"missing_address": "Trebuie să selectezi sau să adaugi o adresă de facturare"
+		},
+		"address": {
+			"add_new": "Adăugă o adresă nouă",
+			"new": "Adăugă o adresă nouă"
+		},
+		"payment-error": {
+			"title": "Plata a fost repinsă",
+			"subtitle": "Plata a fost respinsă din următorul motiv:",
+			"retry": "Reîncearcă plata"
+		},
+		"place": "Plasează comanda",
+		"summary": "Rezumatul comenzii",
+		"your_order": "Comanda ta",
+		"cart_items": "Rezumatul comenzii ({{count}} articole)",
+		"choose_locker": "Selectează locker",
+		"invalid_state": "Comanda este în stare nevalidă.",
+		"select_locker": "Te rugăm să selecteazi un locker pentru a continua procesul de checkout.",
+		"empty_cart": "Coșul tău este gol",
+		"see_recommendations": "Vezi recomandările"
+	},
+	"thank_you": {
+		"congrats": "Mulțumim {{name}} pentru comandă!",
+		"email_sent": "Am trimis un e-mail la adresa",
+		"del_address": "Comanda va fi livrată la adresa:",
+		"track_through_email": "Dacă dorești să urmărești comanda, o poți face conform instrucțiunilor trimise pe e-mail.",
+		"bank": {
+			"details": "Comanda va fi expediată numai după confirmarea încasării prin transfer bancar. Pentru a efectua transferul bancar te rugăm să folosești următoarele date:",
+			"benef": "BENEFICIAR",
+			"iban": "IBAN",
+			"swift": "BIC",
+			"amount": "SUMA",
+			"reference": "REFERINȚĂ",
+			"note": "Este foarte important ca la descrierea transferului bancar să menționați referința de mai sus!"
+		}
+	},
+	"steps": {
+		"Cart": "Coș",
+		"Order details": "Detalii comandă",
+		"Order summary": "Rezumatul comenzii",
+		"Place order": "Plasează comanda"
+	}
+}

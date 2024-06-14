@@ -1,0 +1,65 @@
+{
+	"product_review": {
+		"review": "Review-ul tău",
+		"add_review": "Adaugă review",
+		"buy_again": "Ești dispus să comanzi din nou din magazinul nostru în viitor?",
+		"rating_reviews": "Evaluare",
+		"reviews": "Review-uri",
+		"info": "* Nota poate conține detalii despre produs, cum a decurs comunicarea cu vânzătorul și dacă produsele au fost așa cum te așteptai.",
+		"upload_pictures": "Încărcă imagini",
+		"max_pictures": "Maxim 5 imagini",
+		"total_reviews": "Acest articol are {{total}} review-uri."
+	},
+	"product_price": {
+		"price": "Preț",
+		"best_price": "Cel mai mic preț din ultimele 30 de zile"
+	},
+	"product_detail": {
+		"rating": "Evaluare",
+		"product_id": "ID produs",
+		"product_sku": "SKU",
+		"arrival_date": "Data estimată a sosirii",
+		"availability": "Disponibilitate",
+		"characteristics": "Caracteristici",
+		"reviews": "Review-uri",
+		"descr": "Descrierea produsului",
+		"stock_status": "Starea stocului",
+		"description": "Acest articol are",
+		"size": "Dimensiune",
+		"color": "Culoare",
+		"see_details": "Vezi detalii",
+		"weight": "Greutate",
+		"dimensions": "Dimensiuni",
+		"similar_products": "Produse similare"
+	},
+	"product_delivery": {
+		"delivery": "Livrare",
+		"standard": "Livrare standard",
+		"time": "24 - 48 de ore"
+	},
+	"product_reminder": {
+		"notify": "Notificări",
+		"by_email": "Anunță-mă despre modificările produsului",
+		"favorite": "Favorite"
+	},
+	"share": {
+		"copy": "Copiază",
+		"email": "E-mail",
+		"facebook": "Distribuie pe Facebook",
+		"whatsapp": "Distribuie pe Whatsapp"
+	},
+	"preorder": "PRECOMANDĂ",
+	"monthly_fees": "Taxe lunare",
+	"return_policy": "Politica de Retur",
+	"return_time": "Returnare în 15 zile",
+	"short_descr": "Descriere scurtă",
+	"returns": "Retururi",
+	"promo_banner": "Banner promoțional",
+	"guarantee": "Garanție",
+	"days": "zile",
+	"read_more": "Citește mai mult",
+	"read_less": "Restrânge",
+	"arrival_date": "Data estimată a sosirii",
+	"sale_items": "Produse de interes",
+	"you_might_like": "Poate ți-ar plăcea și"
+}

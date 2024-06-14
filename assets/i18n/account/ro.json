@@ -1,0 +1,221 @@
+{
+	"return": {
+		"list": {
+			"eligible_product": "Produse eligibile pentru returnare",
+			"return_until": "Poți returna acest produs până la",
+			"request": "Cerere de returnare",
+			"method": "Metoda de returnare",
+			"contact_details": "Detalii de contact",
+			"not_found": "Niciun produs eligibil găsit pentru returnare",
+			"title": "Returnează produsele",
+			"filter_title": "Retururi din ultimele:",
+			"empty": "Nu ai niciun produs returnat.",
+			"all_returns": "Toate retururile",
+			"new": "Returnare nouă"
+		},
+		"product": {
+			"condition": "Starea produsului",
+			"reason": "Motivul returnării"
+		},
+		"title": {
+			"product": "1. Selectează produsul pe care dorești să-l returnezi",
+			"condition": "2. Selectează starea și motivul returnării",
+			"delivery": "3. Selectează opțiunea de livrare a returului",
+			"refund": "4. Detalii privind rambursarea"
+		},
+		"condition": {
+			"sealed_product": "Produs sigilat",
+			"functional_product": "Produs funcțional",
+			"broken_product": "Produs deteriorat"
+		},
+		"reason": {
+			"found_better": "Am găsit un produs mai bun",
+			"received_wrong_product": "Am primit un produs greșit",
+			"ordered_wrong_product": "Am comandat un produs greșit"
+		},
+		"delivery": {
+			"currier": "Preluare de la adresă",
+			"easybox": "Easybox",
+			"choose_locker": "Selectează locker",
+			"personal_delivery": "Predare personală",
+			"other_option": "Altă opțiune",
+			"delivery_options": "Opțiuni de livrare",
+			"error": "Magazinul nu are definită o modalitate de returnare a produselor. Te rugăm să contactezi magazinul la datele afișate pe pagina de contact."
+		},
+		"refund": {
+			"finish": "Finalizare cerere de retur",
+			"swift": "SWIFT / BIC (doar pentru internațional)",
+			"bank": "Bancă",
+			"iban": "IBAN",
+			"full-name": "Nume complet"
+		},
+		"returned": {
+			"registered": "Returul cu numărul #{{number}} a fost înregistrat."
+		}
+	},
+	"order_history_menu": {
+		"track": "Urmărește comanda",
+		"repeat": "Repetare comandă / Cumpărare din nou",
+		"set_recurrence": "Setează recurența",
+		"product_review": "Lasă o recenzie produsului",
+		"download_invoice": "Descarcă factura",
+		"cancel_order": "Anulează comanda",
+		"warranty_certificate": "Descarcă certificatul de garanție",
+		"order": "Comandă"
+	},
+	"order_review": {
+		"review": "Recenzia ta",
+		"rating": "Evaluarea ta",
+		"descr": "Descriere",
+		"info": "* Nota poate conține detalii despre produs, cum a decurs comunicarea cu vânzătorul și dacă produsele au fost așa cum te așteptai.",
+		"upload_pics": "Încărcă poze",
+		"max_5": "Maxim 5 poze",
+		"buy_again": "Ești dispus să comanzi din nou din magazinul nostru în viiitor?",
+		"add": "Adăugă recenzie",
+		"order_with_multiline": "Comandă cu mai multe produse:",
+		"select_item": "Selectează produsul"
+	},
+	"recurring_orders": {
+		"title": "Comenzi recurente"
+	},
+	"recurring_order": {
+		"title": "Comandă recurentă",
+		"fill_form": "Te rugăm să completezi detaliile pentru comanda recurentă",
+		"first_order_date": "Prima comandă va începe cu data următoare:",
+		"payment_method": "*metoda de plată este cea implicită - Card Visa cu terminația în",
+		"added-successfully": "Recurența a fost creata cu succes.",
+		"type-interval": "Setează perioada de recurența",
+		"validation": {
+			"max": "Perioada de recurența trebuie să fie mai mică sau egală cu 99"
+		}
+	},
+	"order_history": {
+		"filter_title": "Comenzi plasate în ultimele:",
+		"order_placed": "Comandă plasată:",
+		"items": "produse / Total:",
+		"delivered_to": "Livrat către:",
+		"open_details": "Deschide detaliile comenzii",
+		"title": "Istoric comenzi"
+	},
+	"favorite": {
+		"list": "Listă de favorite",
+		"clear_all": "Resetează tot",
+		"empty-list": "Lista ta este goală.",
+		"see-recommendations": "Vezi recomandări",
+		"buy_again": "Cumpără din nou"
+	},
+	"logout": "Deconectare",
+	"my_account": "Contul meu",
+	"addresses": {
+		"my": "Adresele mele",
+		"my_billing": "Adresele mele de facturare",
+		"add_new": "Adăugă o adresă nouă",
+		"add_new?": "Dorești să adăugi o adresă nouă?",
+		"manage": "Gestionează adresele"
+	},
+	"payment_methods": {
+		"title": "Metode de plată",
+		"empty": "Nicio metodă de plată adăugată",
+		"manage": "Gestionează plățile",
+		"card": {
+			"name": "Nume de pe card",
+			"add": "Adăugă card nou",
+			"number": "Număr card",
+			"month": "Lună",
+			"year": "An",
+			"cvv": "CVV"
+		}
+	},
+	"login_security": {
+		"title": "Conectare și securitate",
+		"questions": "Întrebări de securitate",
+		"answered_questions": "Întrebări de securitate ({{count}} din 3)",
+		"question": "Întrebare",
+		"answer": "Răspuns",
+		"none_selected": [
+			"Nu a fost selectată nicio întrebare. Poți adăuga întrebări.",
+			"aici"
+		],
+		"preview": "Previzualizează autentificările",
+		"recent": "autentificări recente",
+		"manage": "Gestionează conectarea și securitatea contului",
+		"pw": "Parolă",
+		"code": "Cod",
+		"protection": "Protecție",
+		"in_use": "În folosință",
+		"inactive": "Inactiv",
+		"ans_required": "Raspunsul la intrebarea de securitate nu poate fi gol"
+	},
+	"password_login": {
+		"title": "Configurare conectare cu parolă",
+		"descr": "Optează pentru o conectare clasică cu parolă. Te rugăm să completezi mai jos parola pe care vrei să o utilizezi pentru conectarea în ecosistemul Zaídra (toate magazinele online care folosesc sistemul de autentificare DIOS).",
+		"note": "*Notă: Dacă nu ai completat întrebarile de securitate, te rugăm să finalizezi acea etapă.",
+		"requirements": "Cel puțin 8 caractere și 2 cifre",
+		"type_password": "Scrie parola",
+		"repeat_password": "Rescrie parola"
+	},
+	"profile": {
+		"last_name": "Nume de familie",
+		"social_title": "Titlu social",
+		"birthday": "Ziua nașterii",
+		"month": "Lună",
+		"year": "An"
+	},
+	"gift_finder": {
+		"find": "Găsește cadoul perfect",
+		"fill_form": "Completează formularul de mai jos cu cât mai multe detalii posibile pentru a-ți găsi cadoul perfect.",
+		"search": "Căutare",
+		"form": {
+			"low_price": "Preț minim",
+			"high_price": "Preț maxim",
+			"interest": "Categorii de interes",
+			"select-filters": "Selectează una sau mai multe opțiuni",
+			"Female": "Feminin",
+			"Male": "Masculin",
+			"No selection": "Nicio selecție",
+			"Unisex": "Unisex"
+		}
+	},
+	"order_detail": {
+		"subtotal": "Subtotal",
+		"shipping": "Livrare",
+		"other_fee": "Alte taxe",
+		"total": "Total",
+		"title": "Detalii comandă"
+	},
+	"select_date": "Selectează data",
+	"zaidra_products": "Produse din alte magazine din rețeaua Zaídra",
+	"no_gift_found": "Nu a fost identificat niciun cadou pentru criteriile specificate",
+	"interests": "Interese",
+	"order_no": "Comandă: #",
+	"order_placed": "Comandă plasată în",
+	"shipping_no": "Număr de livrare",
+	"shipping_info": "Informații de livrare",
+	"billing_info": "Informații de facturare",
+	"order_address": {
+		"order_method": "Metodă de livrare",
+		"name": "Nume",
+		"full-address": "Adresă"
+	},
+	"payment_method": "Metodă de plată",
+	"payment_status": "Statusul plății",
+	"qty": "Cantitate",
+	"personal_delivery": "Livrare personală",
+	"edit_profile": "Editează profilul",
+	"favorite_list": "Lista de favorite",
+	"my_orders": "Comenzile mele",
+	"returns": "Retururi",
+	"account_details": "Detaliile contului",
+	"my_billing_details": "Detaliile mele de facturare",
+	"orderHistory": "Istoricul comenzilor",
+	"form": {
+		"sex": "Sex",
+		"male": "Masculin",
+		"female": "Feminin",
+		"unisex": "Unisex",
+		"no-selection": "Nicio selecție"
+	},
+	"account": {
+		"order_cancelled": "Comanda este anulată."
+	}
+}

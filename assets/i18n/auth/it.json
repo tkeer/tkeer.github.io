@@ -1,0 +1,51 @@
+{
+	"auth-title": "Autenticazione",
+	"account": {
+		"locked-until": "Per motivi di sicurezza, il tuo account è bloccato per",
+		"create-new": "Se hai perso l'accesso all'account, puoi crearne uno nuovo",
+		"create-title": "Crea account"
+	},
+	"minutes": "minuti",
+	"locked": {
+		"duration": "L'account è bloccato per {{minutes}} minuti"
+	},
+	"confirmation-otp-sent": "Ti abbiamo inviato un codice via email, quindi compila il campo qui sotto. (Opzionale: Hai un link nell'email come conferma alternativa)",
+	"send-otp": "Invia codice OTP",
+	"security-questions": {
+		"title": "Domande di sicurezza",
+		"select": "Seleziona 3 domande di sicurezza",
+		"missing": "Come misura di sicurezza aggiuntiva, imposta le risposte a 3 delle seguenti domande di sicurezza. Puoi saltare questo passaggio per ora, anche se non è consigliato, perché se perdi l'accesso al tuo indirizzo email non sarai in grado di recuperare l'accesso al tuo account.",
+		"skip-btn": "Salta per ora",
+		"ans_required": "La risposta alla domanda non deve essere vuota",
+		"atleast-3": "Scegli almeno 3 domande.",
+		"question": "Domanda #{{i}}",
+		"answer": "Risposta #{{i}}"
+	},
+	"question": "Domanda",
+	"answer": "Risposta",
+	"reset-password": {
+		"reset": "Reimposta password",
+		"reset-your": "Reimposta la tua password",
+		"check-email": "Controlla la tua email per accedere al link per reimpostare la password",
+		"input-email": "Inserisci il tuo indirizzo email per reimpostare la password.",
+		"updated": "La tua password è stata cambiata con successo!",
+		"set-new": "Imposta una nuova password",
+		"type_password": "Digita la tua nuova password",
+		"retype_password": "Ripeti la tua nuova password"
+	},
+	"forgot-email": {
+		"current-email": "Indirizzo email attuale",
+		"updated": "Il tuo indirizzo email è stato cambiato con successo!",
+		"input-new": "Imposta un nuovo indirizzo email",
+		"import-history": "La cronologia e tutti i dettagli saranno importati da quello perso.",
+		"email-changed": "Il tuo indirizzo email è stato cambiato con successo"
+	},
+	"email-label": "Indirizzo email",
+	"zaidra-network": {
+		"account-exist": "Questo sito fa parte della rete Zaídra e sembra che tu abbia già un account configurato con una password su un altro sito della rete.",
+		"same-pw-for-network": "Si noti che è possibile utilizzare la stessa password su tutti i siti web della Rete Zaídra in cui hai effettuato l'accesso in precedenza: {{sites}}, ecc."
+	},
+	"existing_account": "negozio online dove hai già un account impostato con una password",
+	"same_email": "Pertanto, puoi utilizzare lo stesso indirizzo email e password per l'autenticazione, i tuoi dati sono al sicuro su tutti i siti all'interno della rete Zaídra.",
+	"password_requirements": "La password deve essere lunga almeno 8 caratteri e deve avere almeno una lettera maiuscola, una lettera minuscola, una cifra e un carattere speciale."
+}

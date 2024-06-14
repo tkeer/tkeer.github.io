@@ -1,0 +1,18 @@
+{
+	"product": {
+		"empty_new": "Nu există produse noi.",
+		"empty_favorite": "Nu există produse favorite.",
+		"empty_ordered": "Nu există produse comandate.",
+		"empty_best": "Nu există produse noi."
+	},
+	"tabs": {
+		"New": "Noi",
+		"Bestseller": "Cele mai vândute",
+		"Favorite": "Favorite",
+		"Last Order": "Ultima comandă",
+		"History": "Istoric de navigare"
+	},
+	"popular_cats": "Categorii populare",
+	"sale_items": "Credem că îți vor plăcea următoarele produse",
+	"products_title": "Produse"
+}

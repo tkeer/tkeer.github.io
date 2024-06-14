@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="27" viewBox="0 0 28 27">
+    <g data-name="Rectangle 412" style="fill:#fff;stroke:#54688b">
+        <rect width="28" height="27" rx="8" style="stroke:none"/>
+        <rect x=".5" y=".5" width="27" height="26" rx="7.5" style="fill:none"/>
+    </g>
+    <path data-name="Path 31" d="M506.138 3466.92a2.188 2.188 0 0 0-1.55-1.55 63.482 63.482 0 0 0-13.686 0 2.218 2.218 0 0 0-1.55 1.55 25.329 25.329 0 0 0 0 8.419 2.22 2.22 0 0 0 1.55 1.55 51.977 51.977 0 0 0 6.852.37 54.154 54.154 0 0 0 6.834-.352 2.188 2.188 0 0 0 1.55-1.55 24.238 24.238 0 0 0 0-8.437zm-10.128 6.834 4.544-2.625-4.544-2.625z" transform="translate(-483.211 -3457.43)" style="fill:#1b3664;fill-rule:evenodd"/>
+</svg>

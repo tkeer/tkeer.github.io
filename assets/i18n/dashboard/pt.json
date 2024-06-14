@@ -1,0 +1,18 @@
+{
+	"product": {
+		"empty_new": "Ainda não há novos produtos.",
+		"empty_favorite": "Ainda não há produtos favoritos.",
+		"empty_ordered": "Ainda não há produtos pedidos.",
+		"empty_best": "Ainda não há novos produtos."
+	},
+	"tabs": {
+		"New": "Novos",
+		"Bestseller": "Mais vendidos",
+		"Favorite": "Favoritos",
+		"Last Order": "Último pedido",
+		"History": "Histórico"
+	},
+	"popular_cats": "Categorias populares",
+	"sale_items": "Itens em promoção",
+	"products_title": "Produtos"
+}

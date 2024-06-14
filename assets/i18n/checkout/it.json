@@ -1,0 +1,87 @@
+{
+	"observations": "Osservazioni",
+	"add_observations": "Scrivi le tue osservazioni...",
+	"gift_message": "Messaggio regalo",
+	"add_message": "Scrivi il tuo messaggio...",
+	"customizing_image": "Aggiungi immagine personalizzata per il prodotto",
+	"upload_file": "Carica file",
+	"order_details": "Dettagli dell'ordine",
+	"change": "Cambia",
+	"billing_address": "Indirizzo di fatturazione",
+	"delivery_options": "Opzioni di consegna",
+	"payment_method": "Metodo di pagamento",
+	"consent": "Richiesta di consenso dichiarando chiaramente a cosa viene dato il consenso e come verranno utilizzati i dati.",
+	"find_more": "Scopri di più",
+	"items": "articoli",
+	"same_as_del": "Uguale all'indirizzo di consegna",
+	"arrival_estimated": "Arrivo stimato",
+	"total": "Totale",
+	"thankYou": "Grazie",
+	"order_placed": "Il tuo ordine è stato effettuato con successo.",
+	"pickupStore": {
+		"title": "Negozio di ritiro:",
+		"change": "Cambia",
+		"select": "Seleziona negozio di ritiro"
+	},
+	"order": {
+		"condition": {
+			"descr": "Effettuando il tuo ordine, accetti i nostri",
+			"terms_conditions": "Termini e Condizioni",
+			"privacy": "Politica sulla Privacy"
+		},
+		"return_policy": {
+			"title": "Politica di reso",
+			"return_in": "Hai {{days}} giorni per restituire il prodotto."
+		},
+		"delivery": {
+			"title": "Consegna",
+			"address": "Indirizzo di consegna",
+			"option": "Opzione di consegna",
+			"track_progress": "Traccia il progresso del tuo ordine in tempo reale",
+			"money-back": "Resi con rimborso entro 30 giorni se cambi idea",
+			"missing_address": "È necessario selezionare o aggiungere un indirizzo di consegna"
+		},
+		"billing": {
+			"missing_address": "È necessario selezionare o aggiungere un indirizzo di fatturazione"
+		},
+		"address": {
+			"add_new": "Aggiungi nuovo indirizzo",
+			"new": "Aggiungi nuovo"
+		},
+		"payment-error": {
+			"title": "Pagamento rifiutato",
+			"subtitle": "Il tuo pagamento è stato rifiutato a causa del seguente errore:",
+			"retry": "Riprova il pagamento"
+		},
+		"place": "Effettua il tuo ordine",
+		"summary": "Riepilogo dell'ordine",
+		"your_order": "Il tuo ordine",
+		"cart_items": "Riepilogo dell'ordine ({{count}} articoli)",
+		"choose_locker": "Scegli armadietto",
+		"invalid_state": "Ordine in stato non valido.",
+		"select_locker": "Seleziona un armadietto per continuare con il processo di pagamento.",
+		"empty_cart": "Il tuo carrello è vuoto",
+		"see_recommendations": "Vedi raccomandazioni"
+	},
+	"thank_you": {
+		"congrats": "Grazie {{name}} per il tuo ordine!",
+		"email_sent": "Abbiamo inviato un'email all'indirizzo",
+		"del_address": "Il tuo ordine è in corso di consegna all'indirizzo:",
+		"track_through_email": "Se vuoi tracciare il tuo ordine puoi farlo seguendo le istruzioni che ti abbiamo inviato via email.",
+		"bank": {
+			"details": "L'ordine verrà spedito solo dopo la conferma del ricevimento tramite bonifico bancario. Per effettuare il bonifico bancario, utilizzare i seguenti dati:",
+			"benef": "BENEFICIARIO",
+			"iban": "IBAN",
+			"swift": "BIC",
+			"amount": "IMPORTO",
+			"reference": "RIFERIMENTO",
+			"note": "È molto importante che tu menzioni il riferimento sopra nella descrizione del bonifico bancario!"
+		}
+	},
+	"steps": {
+		"Cart": "Carrello",
+		"Order details": "Dettagli dell'ordine",
+		"Order summary": "Riepilogo dell'ordine",
+		"Place order": "Effettua l'ordine"
+	}
+}

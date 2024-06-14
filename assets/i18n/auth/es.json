@@ -1,0 +1,51 @@
+{
+	"auth-title": "Autenticación",
+	"account": {
+		"locked-until": "Por razones de seguridad, su cuenta está bloqueada durante",
+		"create-new": "Si perdió el acceso a la cuenta, puede crear una nueva",
+		"create-title": "Crear cuenta"
+	},
+	"minutes": "minutos",
+	"locked": {
+		"duration": "La cuenta está bloqueada durante {{minutes}} minutos"
+	},
+	"confirmation-otp-sent": "Le hemos enviado un código por correo electrónico, por favor complete el campo a continuación. (Opcional: Tiene un enlace en el correo electrónico como confirmación alternativa)",
+	"send-otp": "Enviar código OTP",
+	"security-questions": {
+		"title": "Preguntas de seguridad",
+		"select": "Seleccione 3 preguntas de seguridad",
+		"missing": "Como medida de seguridad adicional, configure las respuestas a 3 de las siguientes preguntas de seguridad. Puede omitir este paso por ahora, aunque no se recomienda, porque si pierde el acceso a su dirección de correo electrónico, no podrá recuperar el acceso a su cuenta.",
+		"skip-btn": "Omitir por ahora",
+		"ans_required": "La respuesta a la pregunta no debe estar vacía",
+		"atleast-3": "Elija al menos 3 preguntas.",
+		"question": "Pregunta #{{i}}",
+		"answer": "Respuesta #{{i}}"
+	},
+	"question": "Pregunta",
+	"answer": "Respuesta",
+	"reset-password": {
+		"reset": "Restablecer contraseña",
+		"reset-your": "Restablecer su contraseña",
+		"check-email": "Por favor, revise su correo electrónico para acceder al enlace de restablecimiento de contraseña",
+		"input-email": "Escriba su dirección de correo electrónico para restablecer la contraseña.",
+		"updated": "¡Su contraseña ha sido cambiada con éxito!",
+		"set-new": "Establecer una nueva contraseña",
+		"type_password": "Escriba su nueva contraseña",
+		"retype_password": "Repita su nueva contraseña"
+	},
+	"forgot-email": {
+		"current-email": "Dirección de correo electrónico actual",
+		"updated": "¡Su dirección de correo electrónico ha sido cambiada con éxito!",
+		"input-new": "Establecer una nueva dirección de correo electrónico",
+		"import-history": "El historial y todos los detalles se importarán desde la perdida.",
+		"email-changed": "Su dirección de correo electrónico ha sido cambiada con éxito"
+	},
+	"email-label": "Dirección de correo electrónico",
+	"zaidra-network": {
+		"account-exist": "Este sitio es parte de la red Zaídra, y parece que ya tiene una cuenta configurada con una contraseña en otro sitio de la red.",
+		"same-pw-for-network": "Tenga en cuenta que puede usar la misma contraseña en todos los sitios web de la Red Zaídra donde se haya registrado anteriormente: {{sites}}, etc."
+	},
+	"existing_account": "tienda en línea donde ya tiene una cuenta configurada con una contraseña",
+	"same_email": "Por lo tanto, puede usar la misma dirección de correo electrónico y contraseña para la autenticación, sus datos están seguros en todos los sitios dentro de la red Zaídra.",
+	"password_requirements": "La contraseña debe tener al menos 8 caracteres de longitud y debe tener al menos una letra mayúscula, una letra minúscula, un dígito y un carácter especial."
+}

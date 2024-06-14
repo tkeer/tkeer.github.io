@@ -1,0 +1,65 @@
+{
+	"product_review": {
+		"review": "Your review",
+		"add_review": "Add a review",
+		"buy_again": "Are you willing to purchase again from our store in the next 12 months?",
+		"rating_reviews": "Rating and reviews",
+		"reviews": "Reviews",
+		"info": "* The note can contain details about the product, how the communication with the seller went and if products were as you expected.",
+		"upload_pictures": "Upload pictures",
+		"max_pictures": "Max 5 pictures",
+		"total_reviews": "This Item has {{total}} reviews"
+	},
+	"product_price": {
+		"price": "Price",
+		"best_price": "30-days lowest price"
+	},
+	"product_detail": {
+		"rating": "Rating",
+		"product_id": "Product ID",
+		"product_sku": "SKU",
+		"arrival_date": "Arrival date",
+		"availability": "Availability",
+		"characteristics": "Characteristics",
+		"descr": "Product description",
+		"reviews": "Reviews",
+		"stock_status": "Stock status",
+		"description": "This item has",
+		"size": "Size",
+		"color": "Color",
+		"see_details": "See details",
+		"weight": "Weight",
+		"dimensions": "Dimensions",
+		"similar_products": "Similar products"
+	},
+	"product_delivery": {
+		"delivery": "Delivery",
+		"standard": "Standard delivery",
+		"time": "24 - 48 hours"
+	},
+	"product_reminder": {
+		"notify": "Notify me",
+		"by_email": "Notify me about product by email",
+		"favorite": "Favorite"
+	},
+	"share": {
+		"copy": "Copy",
+		"email": "Email",
+		"facebook": "Share on Facebook",
+		"whatsapp": "Share on Whatsapp"
+	},
+	"preorder": "PREORDER",
+	"monthly_fees": "Monthly fees",
+	"return_policy": "Return policy",
+	"return_time": "Return in 15 days",
+	"short_descr": "Short description",
+	"returns": "Returns",
+	"promo_banner": "Promo banner",
+	"guarantee": "Guarantee",
+	"days": "days",
+	"read_more": "Read more",
+	"read_less": "Read less",
+	"arrival_date": "Arrival date",
+	"sale_items": "Sale items",
+	"you_might_like": "You might also like"
+}

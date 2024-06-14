@@ -1,0 +1,25 @@
+{
+	"filters": {
+		"categories": "Categorías",
+		"product": "Producto",
+		"brands": "Marca",
+		"priceRanges": "Precio",
+		"rating": "Calificación mínima"
+	},
+	"desc": "Más recientes",
+	"id_sort,desc": "Más recientes",
+	"sellingPriceWithVat,asc": "Precio ↑",
+	"sellingPriceWithVat,desc": "Precio ↓",
+	"rating,asc": "Calificación ↑",
+	"rating,desc": "Calificación ↓",
+	"asc": "Más antiguos",
+	"cat_filters": "Filtros",
+	"view_all": "Ver todas las categorías",
+	"del_filters": "Eliminar filtros",
+	"view_products": "Ver productos",
+	"page": "página",
+	"sort_by": "Ordenar por",
+	"read_more": "Leer más",
+	"read_less": "Leer menos",
+	"num_products_found": "{{count}} productos encontrados"
+}

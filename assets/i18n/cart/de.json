@@ -1,0 +1,25 @@
+{
+	"estimated_delivery": "Geschätzte Lieferung",
+	"proceed_checkout": "Zur Kasse gehen",
+	"similar_products": "Ähnliche Produkte aus anderen Geschäften im Zaídra-Netzwerk",
+	"empty_cart": "Ihr Warenkorb ist leer",
+	"see_recommendations": "Empfehlungen ansehen",
+	"total_product": "Gesamtprodukt",
+	"delivery": "Lieferung",
+	"subtotal": "Zwischensumme",
+	"discount": "Rabatt",
+	"summary_order": "Bestellübersicht",
+	"total_products": "Gesamtprodukte",
+	"total": "Gesamt",
+	"voucher_code": {
+		"add": "Gutscheincode hinzufügen",
+		"success": "Gutscheincode erfolgreich angewendet."
+	},
+	"products_not_found": "Wir haben diese Produkte nicht zu besseren Preisen in anderen Geschäften im Zaídra-Netzwerk gefunden.",
+	"steps": {
+		"Cart": "Warenkorb",
+		"Order details": "Bestelldetails",
+		"Order summary": "Bestellübersicht",
+		"Place order": "Bestellung aufgeben"
+	}
+}

@@ -1,0 +1,65 @@
+{
+	"product_review": {
+		"review": "Votre avis",
+		"add_review": "Ajouter un avis",
+		"buy_again": "Êtes-vous prêt à acheter à nouveau dans notre magasin au cours des 12 prochains mois ?",
+		"rating_reviews": "Notes et avis",
+		"reviews": "Avis",
+		"info": "* La note peut contenir des détails sur le produit, comment s'est déroulée la communication avec le vendeur et si les produits étaient comme vous l'attendiez.",
+		"upload_pictures": "Télécharger des images",
+		"max_pictures": "Max 5 images",
+		"total_reviews": "Cet article a {{total}} avis"
+	},
+	"product_price": {
+		"price": "Prix",
+		"best_price": "Prix le plus bas sur 30 jours"
+	},
+	"product_detail": {
+		"rating": "Note",
+		"product_id": "ID produit",
+		"product_sku": "SKU",
+		"arrival_date": "Date d'arrivée",
+		"availability": "Disponibilité",
+		"characteristics": "Caractéristiques",
+		"descr": "Description du produit",
+		"reviews": "Avis",
+		"stock_status": "État des stocks",
+		"description": "Cet article a",
+		"size": "Taille",
+		"color": "Couleur",
+		"see_details": "Voir les détails",
+		"weight": "Poids",
+		"dimensions": "Dimensions",
+		"similar_products": "Produits similaires"
+	},
+	"product_delivery": {
+		"delivery": "Livraison",
+		"standard": "Livraison standard",
+		"time": "24 - 48 heures"
+	},
+	"product_reminder": {
+		"notify": "Me notifier",
+		"by_email": "Me notifier du produit par email",
+		"favorite": "Favori"
+	},
+	"share": {
+		"copy": "Copier",
+		"email": "Email",
+		"facebook": "Partager sur Facebook",
+		"whatsapp": "Partager sur Whatsapp"
+	},
+	"preorder": "PRÉCOMMANDE",
+	"monthly_fees": "Frais mensuels",
+	"return_policy": "Politique de retour",
+	"return_time": "Retour sous 15 jours",
+	"short_descr": "Description courte",
+	"returns": "Retours",
+	"promo_banner": "Bannière promotionnelle",
+	"guarantee": "Garantie",
+	"days": "jours",
+	"read_more": "Lire plus",
+	"read_less": "Lire moins",
+	"arrival_date": "Date d'arrivée",
+	"sale_items": "Articles en solde",
+	"you_might_like": "Vous pourriez aussi aimer"
+}

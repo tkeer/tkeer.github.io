@@ -1,0 +1,65 @@
+{
+	"product_review": {
+		"review": "Sua avaliação",
+		"add_review": "Adicionar uma avaliação",
+		"buy_again": "Você está disposto a comprar novamente em nossa loja nos próximos 12 meses?",
+		"rating_reviews": "Classificação e avaliações",
+		"reviews": "Avaliações",
+		"info": "* A nota pode conter detalhes sobre o produto, como foi a comunicação com o vendedor e se os produtos eram como você esperava.",
+		"upload_pictures": "Carregar imagens",
+		"max_pictures": "Máximo 5 imagens",
+		"total_reviews": "Este item tem {{total}} avaliações"
+	},
+	"product_price": {
+		"price": "Preço",
+		"best_price": "Menor preço em 30 dias"
+	},
+	"product_detail": {
+		"rating": "Classificação",
+		"product_id": "ID do produto",
+		"product_sku": "SKU",
+		"arrival_date": "Data de chegada",
+		"availability": "Disponibilidade",
+		"characteristics": "Características",
+		"descr": "Descrição do produto",
+		"reviews": "Avaliações",
+		"stock_status": "Status do estoque",
+		"description": "Este item tem",
+		"size": "Tamanho",
+		"color": "Cor",
+		"see_details": "Ver detalhes",
+		"weight": "Peso",
+		"dimensions": "Dimensões",
+		"similar_products": "Produtos similares"
+	},
+	"product_delivery": {
+		"delivery": "Entrega",
+		"standard": "Entrega padrão",
+		"time": "24 - 48 horas"
+	},
+	"product_reminder": {
+		"notify": "Notifique-me",
+		"by_email": "Notifique-me sobre o produto por e-mail",
+		"favorite": "Favorito"
+	},
+	"share": {
+		"copy": "Copiar",
+		"email": "Email",
+		"facebook": "Compartilhar no Facebook",
+		"whatsapp": "Compartilhar no Whatsapp"
+	},
+	"preorder": "PRÉ-VENDA",
+	"monthly_fees": "Taxas mensais",
+	"return_policy": "Política de devolução",
+	"return_time": "Devolução em 15 dias",
+	"short_descr": "Descrição curta",
+	"returns": "Devoluções",
+	"promo_banner": "Banner promocional",
+	"guarantee": "Garantia",
+	"days": "dias",
+	"read_more": "Ler mais",
+	"read_less": "Ler menos",
+	"arrival_date": "Data de chegada",
+	"sale_items": "Itens em promoção",
+	"you_might_like": "Você também pode gostar"
+}

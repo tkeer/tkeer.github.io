@@ -1,0 +1,51 @@
+{
+	"auth-title": "Authentification",
+	"account": {
+		"locked-until": "Pour des raisons de sécurité, votre compte est bloqué pour",
+		"create-new": "Si vous avez perdu l'accès au compte, vous pouvez en créer un nouveau",
+		"create-title": "Créer un compte"
+	},
+	"minutes": "minutes",
+	"locked": {
+		"duration": "Le compte est bloqué pour {{minutes}} minutes"
+	},
+	"confirmation-otp-sent": "Nous vous avons envoyé un code par email, veuillez remplir le champ ci-dessous. (Optionnel : Vous avez un lien dans l'email comme confirmation alternative)",
+	"send-otp": "Envoyer le code OTP",
+	"security-questions": {
+		"title": "Questions de sécurité",
+		"select": "Sélectionnez 3 questions de sécurité",
+		"missing": "Comme mesure de sécurité accrue, veuillez configurer les réponses à 3 des questions de sécurité suivantes. Vous pouvez ignorer cette étape pour le moment, bien que cela ne soit pas recommandé, car si vous perdez l'accès à votre adresse email, vous ne pourrez pas récupérer l'accès à votre compte.",
+		"skip-btn": "Ignorer pour le moment",
+		"ans_required": "La réponse à la question ne doit pas être vide",
+		"atleast-3": "Choisissez au moins 3 questions.",
+		"question": "Question #{{i}}",
+		"answer": "Réponse #{{i}}"
+	},
+	"question": "Question",
+	"answer": "Réponse",
+	"reset-password": {
+		"reset": "Réinitialiser le mot de passe",
+		"reset-your": "Réinitialisez votre mot de passe",
+		"check-email": "Veuillez vérifier votre email pour accéder au lien de réinitialisation du mot de passe",
+		"input-email": "Tapez votre adresse email pour réinitialiser le mot de passe.",
+		"updated": "Votre mot de passe a été changé avec succès !",
+		"set-new": "Définir un nouveau mot de passe",
+		"type_password": "Tapez votre nouveau mot de passe",
+		"retype_password": "Ressaisissez votre nouveau mot de passe"
+	},
+	"forgot-email": {
+		"current-email": "Adresse email actuelle",
+		"updated": "Votre adresse email a été changée avec succès !",
+		"input-new": "Définir une nouvelle adresse email",
+		"import-history": "L'historique et tous les détails seront importés de celui perdu.",
+		"email-changed": "Votre adresse email a été changée avec succès"
+	},
+	"email-label": "Adresse email",
+	"zaidra-network": {
+		"account-exist": "Ce site fait partie du réseau Zaídra, et il semble que vous ayez déjà un compte configuré avec un mot de passe sur un autre site du réseau.",
+		"same-pw-for-network": "Veuillez noter que vous pouvez utiliser le même mot de passe sur tous les sites du Réseau Zaídra où vous vous êtes déjà connecté : {{sites}}, etc."
+	},
+	"existing_account": "magasin en ligne où vous avez déjà un compte configuré avec un mot de passe",
+	"same_email": "Par conséquent, vous pouvez utiliser la même adresse email et le même mot de passe pour l'authentification, vos données étant sécurisées sur tous les sites du réseau Zaídra.",
+	"password_requirements": "Le mot de passe doit contenir au moins 8 caractères et doit comporter au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial."
+}

@@ -1,0 +1,51 @@
+{
+	"auth-title": "Autentificare",
+	"account": {
+		"locked-until": "Din motive de securitate, contul tău este blocat pentru",
+		"create-new": "Dacă ai pierdut accesul la cont, îți poți crea unul nou",
+		"create-title": "Creează cont"
+	},
+	"minutes": "minute",
+	"locked": {
+		"duration": "Contul este blocat timp de {{minutes}} minute"
+	},
+	"confirmation-otp-sent": "Ți-am trimis un cod pe e-mail, așa că te rugăm să completezi câmpul de mai jos. (Opțional: ai un link în e-mail ca și confirmare alternativă)",
+	"send-otp": "Trimite codul OTP",
+	"security-questions": {
+		"title": "Întrebări de securitate",
+		"select": "Selectează 3 întrebări de securitate",
+		"missing": "Pentru o securitate sporita te rugăm să setezi răspunsurile la 3 întrebări de securitate dintre cele de mai jos. Poți sări peste acest pas, însă nu este recomandat, deoarece, dacă îți pierzi accesul la adresa de email, nu te îți vei mai putea recupera contul.",
+		"skip-btn": "Mai târziu",
+		"ans_required": "Răspunsul la întrebarea de securitate nu poate fi gol.",
+		"atleast-3": "Alege cel puțin 3 întrebări.",
+		"question": "Întrebarea #{{i}}",
+		"answer": "Răspunsul #{{i}}"
+	},
+	"question": "Întrebare",
+	"answer": "Răspuns",
+	"reset-password": {
+		"reset": "Resetează parola",
+		"reset-your": "Resetează parola",
+		"check-email": "Te rugăm să-ți verifici e-mailul pentru a accesa linkul de resetare a parolei",
+		"input-email": "Introdu adresa de e-mail pentru a reseta parola.",
+		"updated": "Parola ta a fost schimbată cu succes!",
+		"set-new": "Setează o nouă parolă",
+		"type_password": "Scrie noua ta parolă",
+		"retype_password": "Rescrie noua ta parolă"
+	},
+	"forgot-email": {
+		"current-email": "Adresă de e-mail curentă",
+		"updated": "Adresa ta de e-mail a fost schimbată cu succes!",
+		"input-new": "Setează o nouă adresă de e-mail",
+		"import-history": "Istoricul și toate detaliile vor fi importate din cel pierdut.",
+		"email-changed": "Adresa de e-mail a fost schimbată cu succes"
+	},
+	"email-label": "Adresa de e-mail",
+	"zaidra-network": {
+		"account-exist": "Acest magazin face parte din rețeaua Zaídra și se pare că aveți deja un cont configurat cu o parolă pe un alt magazin din rețea.",
+		"same-pw-for-network": "Te rugăm să reții că poți utiliza aceeași parolă pe toate magazinele din rețeaua Zaídra unde te-ai autentificat anterior: {{sites}} etc."
+	},
+	"existing_account": "magazin unde ai deja un cont configurat cu o parolă",
+	"same_email": "Prin urmare, poți utiliza aceeași adresă de e-mail și aceeași parolă pentru autentificare, datele tale fiind în siguranță pe toate magazinele din platforma Zaídra.",
+	"password_requirements": "Parola trebuie să aibă minim 8 caractere și cel puțin o literă mare, o literă mică, o cifră si un caracter special."
+}

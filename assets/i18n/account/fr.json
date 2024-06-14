@@ -1,0 +1,221 @@
+{
+	"return": {
+		"list": {
+			"eligible_product": "Produits éligibles au retour",
+			"return_until": "Vous pouvez retourner ceci jusqu'à",
+			"request": "Demande de retour",
+			"method": "Méthode de retour",
+			"contact_details": "Détails de contact",
+			"not_found": "Aucun produit éligible trouvé pour le retour",
+			"title": "Retourner les produits",
+			"filter_title": "Retour des commandes passées dans les derniers:",
+			"empty": "Vous n'avez aucun produit retourné.",
+			"all_returns": "Tous les retours",
+			"new": "Nouveau retour"
+		},
+		"product": {
+			"condition": "État du produit",
+			"reason": "Raison du retour"
+		},
+		"title": {
+			"product": "1. Veuillez sélectionner le produit que vous souhaitez retourner",
+			"condition": "2. Veuillez sélectionner l'état et la raison du retour",
+			"delivery": "3. Veuillez sélectionner l'option de livraison de retour",
+			"refund": "4. Détails du remboursement"
+		},
+		"condition": {
+			"sealed_product": "Produit scellé",
+			"functional_product": "Produit fonctionnel",
+			"broken_product": "Produit cassé"
+		},
+		"reason": {
+			"found_better": "Trouvé mieux",
+			"received_wrong_product": "Produit incorrect reçu",
+			"ordered_wrong_product": "Produit incorrect commandé"
+		},
+		"delivery": {
+			"currier": "Ramassage à domicile",
+			"choose_locker": "Choisir casier",
+			"easybox": "Easybox",
+			"personal_delivery": "Remise en main propre",
+			"other_option": "Autre option",
+			"delivery_options": "Options de livraison",
+			"error": "Le magasin n'a pas défini de méthode d'expédition pour les retours. Veuillez contacter le magasin en utilisant les données listées sur la page Contact."
+		},
+		"refund": {
+			"finish": "Terminer le retour",
+			"swift": "SWIFT / BIC (uniquement pour l'international)",
+			"bank": "Banque",
+			"iban": "IBAN",
+			"full-name": "Nom complet"
+		},
+		"returned": {
+			"registered": "Le retour avec le numéro #{{number}} a été enregistré."
+		}
+	},
+	"order_history_menu": {
+		"track": "Suivre la commande",
+		"repeat": "Répéter la commande / Acheter à nouveau",
+		"set_recurrence": "Définir la récurrence",
+		"product_review": "Laisser un avis sur le produit",
+		"download_invoice": "Télécharger la facture",
+		"cancel_order": "Annuler la commande",
+		"warranty_certificate": "Télécharger le certificat de garantie",
+		"order": "Commande"
+	},
+	"order_review": {
+		"review": "Votre avis",
+		"rating": "Votre note",
+		"descr": "Description",
+		"info": "* La note peut contenir des détails sur le produit, comment s'est déroulée la communication avec le vendeur et si les produits étaient comme vous l'attendiez.",
+		"upload_pics": "Télécharger des images",
+		"max_5": "Max 5 images",
+		"buy_again": "Souhaitez-vous acheter à nouveau dans notre magasin à l'avenir?",
+		"add": "Ajouter un avis",
+		"order_with_multiline": "Commande avec plusieurs articles:",
+		"select_item": "Sélectionner l'article"
+	},
+	"recurring_orders": {
+		"title": "Commandes récurrentes"
+	},
+	"recurring_order": {
+		"title": "Commande récurrente",
+		"fill_form": "Veuillez remplir les détails de la commande récurrente",
+		"first_order_date": "La première commande commencera à la date suivante:",
+		"payment_method": "*le mode de paiement est celui par défaut - Carte Visa se terminant par",
+		"added-successfully": "Récurrence de la commande ajoutée avec succès.",
+		"type-interval": "Saisir l'intervalle récurrent",
+		"validation": {
+			"max": "La période de récurrence doit être égale ou inférieure à 99"
+		}
+	},
+	"order_history": {
+		"filter_title": "Commandes passées dans les derniers:",
+		"order_placed": "Commande passée:",
+		"items": "articles / Total:",
+		"delivered_to": "Livré à:",
+		"open_details": "Ouvrir les détails de la commande",
+		"title": "Historique des commandes"
+	},
+	"favorite": {
+		"list": "Liste de favoris",
+		"clear_all": "Tout effacer",
+		"empty-list": "Votre liste est vide.",
+		"see-recommendations": "Voir les recommandations",
+		"buy_again": "Acheter à nouveau"
+	},
+	"logout": "Déconnexion",
+	"my_account": "Mon compte",
+	"addresses": {
+		"my": "Mes adresses",
+		"my_billing": "Mes adresses de facturation",
+		"add_new": "Ajouter une nouvelle adresse",
+		"add_new?": "Voulez-vous ajouter une nouvelle adresse?",
+		"manage": "Gérer les adresses"
+	},
+	"payment_methods": {
+		"title": "Méthodes de paiement",
+		"empty": "Aucune méthode de paiement ajoutée",
+		"manage": "Gérer les paiements",
+		"card": {
+			"name": "Nom sur la carte",
+			"add": "Ajouter une nouvelle carte",
+			"number": "Numéro de carte",
+			"month": "Mois",
+			"year": "Année",
+			"cvv": "CVV"
+		}
+	},
+	"login_security": {
+		"title": "Connexion et sécurité",
+		"questions": "Questions de sécurité",
+		"answered_questions": "Questions de sécurité ({{count}} sur 3)",
+		"question": "Question",
+		"answer": "Réponse",
+		"none_selected": [
+			"Aucune question n'a été sélectionnée. Vous pouvez ajouter des questions.",
+			"ici"
+		],
+		"preview": "Aperçu des connexions",
+		"recent": "connexions récentes",
+		"manage": "Gérer la connexion et la sécurité",
+		"pw": "Mot de passe",
+		"code": "Code",
+		"protection": "Protection",
+		"in_use": "En cours d'utilisation",
+		"inactive": "Inactif",
+		"ans_required": "La réponse à la question ne doit pas être vide"
+	},
+	"password_login": {
+		"title": "Configurer la connexion par mot de passe",
+		"descr": "Vous optez pour une connexion classique par mot de passe. Veuillez remplir ci-dessous le mot de passe que vous souhaitez utiliser pour votre connexion dans l'écosystème Zaídra (tous les magasins en ligne qui vous demandent un mot de passe DIOS).",
+		"note": "*Remarque : Si vous n'avez pas complété les questions de sécurité, veuillez terminer ces étapes.",
+		"requirements": "Au moins 8 caractères et 2 chiffres",
+		"type_password": "Saisir le mot de passe",
+		"repeat_password": "Ressaisir le mot de passe"
+	},
+	"profile": {
+		"last_name": "Nom de famille",
+		"social_title": "Titre social",
+		"birthday": "Date de naissance",
+		"month": "Mois",
+		"year": "Année"
+	},
+	"gift_finder": {
+		"find": "Trouver le cadeau parfait",
+		"fill_form": "Remplissez le formulaire ci-dessous avec autant de détails que possible pour que nous puissions trouver le cadeau parfait pour vous.",
+		"search": "Rechercher",
+		"form": {
+			"low_price": "Prix minimum",
+			"high_price": "Prix maximum",
+			"interest": "Intérêt",
+			"select-filters": "Sélectionner un ou plusieurs",
+			"Male": "Homme",
+			"Female": "Femme",
+			"Unisex": "Unisexe",
+			"No selection": "Aucune sélection"
+		}
+	},
+	"order_detail": {
+		"subtotal": "Sous-total",
+		"shipping": "Expédition",
+		"other_fee": "Autres frais",
+		"total": "Total",
+		"title": "Détails de la commande"
+	},
+	"select_date": "Sélectionner la date",
+	"zaidra_products": "Produits d'autres magasins dans le réseau Zaídra",
+	"no_gift_found": "Aucun cadeau trouvé pour les critères spécifiés",
+	"interests": "Intérêts",
+	"order_no": "Commande : #",
+	"order_placed": "Commande passée le",
+	"shipping_no": "Numéro de livraison",
+	"shipping_info": "Informations de livraison",
+	"billing_info": "Informations de facturation",
+	"order_address": {
+		"order_method": "Méthode de livraison",
+		"name": "Nom",
+		"full-address": "Adresse"
+	},
+	"payment_method": "Méthode de paiement",
+	"payment_status": "Statut du paiement",
+	"qty": "Quantité",
+	"personal_delivery": "Livraison personnelle",
+	"edit_profile": "Modifier le profil",
+	"favorite_list": "Liste de favoris",
+	"my_orders": "Mes commandes",
+	"returns": "Retours",
+	"account_details": "Détails du compte",
+	"my_billing_details": "Mes détails de facturation",
+	"orderHistory": "Historique des commandes",
+	"account": {
+		"order_cancelled": "La commande est annulée."
+	},
+	"form": {
+		"female": "Femme",
+		"male": "Homme",
+		"no-selection": "Aucune sélection",
+		"sex": "Sexe",
+		"unisex": "Unisexe"
+	}
+}

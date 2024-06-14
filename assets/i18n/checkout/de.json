@@ -1,0 +1,87 @@
+{
+	"observations": "Anmerkungen",
+	"add_observations": "Geben Sie Ihre Anmerkungen ein...",
+	"gift_message": "Geschenknachricht",
+	"add_message": "Geben Sie Ihre Nachricht ein...",
+	"customizing_image": "Anpassungsbild für Produkt hinzufügen",
+	"upload_file": "Datei hochladen",
+	"order_details": "Bestelldetails",
+	"change": "Ändern",
+	"billing_address": "Rechnungsadresse",
+	"delivery_options": "Lieferoptionen",
+	"payment_method": "Zahlungsmethode",
+	"consent": "Um Zustimmung bitten, indem klar offengelegt wird, wofür die Zustimmung erteilt wird und wie die Daten verwendet werden.",
+	"find_more": "Mehr erfahren",
+	"items": "Artikel",
+	"same_as_del": "Gleich wie Lieferadresse",
+	"arrival_estimated": "Voraussichtliche Ankunft",
+	"total": "Gesamt",
+	"thankYou": "Danke",
+	"order_placed": "Ihre Bestellung wurde erfolgreich aufgegeben.",
+	"pickupStore": {
+		"title": "Abholgeschäft:",
+		"change": "Ändern",
+		"select": "Abholgeschäft auswählen"
+	},
+	"order": {
+		"condition": {
+			"descr": "Mit der Aufgabe Ihrer Bestellung stimmen Sie unseren",
+			"terms_conditions": "Allgemeinen Geschäftsbedingungen",
+			"privacy": "Datenschutzbestimmungen"
+		},
+		"return_policy": {
+			"title": "Rückgaberecht",
+			"return_in": "Sie haben {{days}} Tage Zeit, um das Produkt zurückzusenden."
+		},
+		"delivery": {
+			"title": "Lieferung",
+			"address": "Lieferadresse",
+			"option": "Lieferoption",
+			"track_progress": "Verfolgen Sie den Fortschritt Ihrer Bestellung in Echtzeit",
+			"money-back": "30 Tage Geld-zurück-Garantie, wenn Sie es sich anders überlegen",
+			"missing_address": "Sie müssen eine Lieferadresse auswählen oder hinzufügen"
+		},
+		"billing": {
+			"missing_address": "Sie müssen eine Rechnungsadresse auswählen oder hinzufügen"
+		},
+		"address": {
+			"add_new": "Neue Adresse hinzufügen",
+			"new": "Neu hinzufügen"
+		},
+		"payment-error": {
+			"title": "Zahlung abgelehnt",
+			"subtitle": "Ihre Zahlung wurde aufgrund des folgenden Fehlers abgelehnt:",
+			"retry": "Zahlung wiederholen"
+		},
+		"place": "Bestellung aufgeben",
+		"summary": "Bestellübersicht",
+		"your_order": "Ihre Bestellung",
+		"cart_items": "Bestellübersicht ({{count}} Artikel)",
+		"choose_locker": "Schließfach auswählen",
+		"invalid_state": "Bestellung ist in einem ungültigen Zustand.",
+		"select_locker": "Bitte wählen Sie ein Schließfach aus, um den Bezahlvorgang fortzusetzen.",
+		"empty_cart": "Ihr Warenkorb ist leer",
+		"see_recommendations": "Empfehlungen ansehen"
+	},
+	"thank_you": {
+		"congrats": "Vielen Dank {{name}} für Ihre Bestellung!",
+		"email_sent": "Wir haben eine E-Mail an die Adresse gesendet",
+		"del_address": "Ihre Bestellung wird an die Lieferadresse gesendet:",
+		"track_through_email": "Wenn Sie Ihre Bestellung verfolgen möchten, können Sie dies tun, indem Sie den Anweisungen folgen, die wir Ihnen per E-Mail gesendet haben.",
+		"bank": {
+			"details": "Die Bestellung wird erst nach Bestätigung des Zahlungseingangs per Banküberweisung versendet. Um die Banküberweisung zu tätigen, verwenden Sie bitte die folgenden Daten:",
+			"benef": "BEGÜNSTIGTER",
+			"iban": "IBAN",
+			"swift": "BIC",
+			"amount": "BETRAG",
+			"reference": "REFERENZ",
+			"note": "Es ist sehr wichtig, dass Sie die oben genannte Referenz in der Beschreibung der Banküberweisung angeben!"
+		}
+	},
+	"steps": {
+		"Cart": "Warenkorb",
+		"Order details": "Bestelldetails",
+		"Order summary": "Bestellübersicht",
+		"Place order": "Bestellung aufgeben"
+	}
+}

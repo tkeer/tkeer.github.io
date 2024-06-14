@@ -1,0 +1,51 @@
+{
+	"auth-title": "Auth",
+	"account": {
+		"locked-until": "For security reasons, your account is locked for",
+		"create-new": "If you lost access to the account, you can create a new one",
+		"create-title": "Create account"
+	},
+	"minutes": "minutes",
+	"locked": {
+		"duration": "Account is locked for {{minutes}} minutes"
+	},
+	"confirmation-otp-sent": "We've sent you a code on email, so please fill in the field bellow. (Optional: You have a link in the email as alternate confirmation)",
+	"send-otp": "Send OTP code",
+	"security-questions": {
+		"title": "Security questions",
+		"select": "Select 3 security questions",
+		"missing": "As an increased security measure please set up the answers to 3 of the following security questions. You can skip this step for now, although this is not recommended, because if you lose access to your email address you won't be able to recover the access to your account.",
+		"skip-btn": "Skip for now",
+		"ans_required": "The answer to the question should not be empty",
+		"atleast-3": "Choose at least 3 questions.",
+		"question": "Question #{{i}}",
+		"answer": "Answer #{{i}}"
+	},
+	"question": "Question",
+	"answer": "Answer",
+	"reset-password": {
+		"reset": "Reset password",
+		"reset-your": "Reset your password",
+		"check-email": "Please check your email to access the reset password link",
+		"input-email": "Type your email address to reset the password.",
+		"updated": "Your password has been changed successfully!",
+		"set-new": "Set a new password",
+		"type_password": "Type your new password",
+		"retype_password": "Repeat your new password"
+	},
+	"forgot-email": {
+		"current-email": "Current email address",
+		"updated": "Your email address has been changed successfully!",
+		"input-new": "Set a new email address",
+		"import-history": "The history and all the details will be imported from the lost one.",
+		"email-changed": "Your email address has been changed successfully"
+	},
+	"email-label": "Email address",
+	"zaidra-network": {
+		"account-exist": "This site is part of the Zaídra network, and seems that you already have an account set-up with a password on another site from the network.",
+		"same-pw-for-network": "Please note that you can use the same password on all the websites from Zaídra Network where you previously login: {{sites}} etc."
+	},
+	"existing_account": "online store where you already have an account set up with a password",
+	"same_email": "Therefore, you can use the same email address and password for authentication, your data being safe on all sites within the Zaídra network.",
+	"password_requirements": "The password must be at least 8 characters long and it must have at least one uppercase letter, one lowercase letter, one digit and one special character."
+}

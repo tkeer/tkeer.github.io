@@ -1,0 +1,87 @@
+{
+	"observations": "Observações",
+	"add_observations": "Digite suas observações...",
+	"gift_message": "Mensagem de presente",
+	"add_message": "Digite sua mensagem...",
+	"customizing_image": "Adicionar imagem personalizada para o produto",
+	"upload_file": "Enviar arquivo",
+	"order_details": "Detalhes do pedido",
+	"change": "Alterar",
+	"billing_address": "Endereço de faturamento",
+	"delivery_options": "Opções de entrega",
+	"payment_method": "Método de pagamento",
+	"consent": "Solicitar consentimento divulgando claramente para o que o consentimento está sendo dado e como os dados serão usados.",
+	"find_more": "Saiba mais",
+	"items": "itens",
+	"same_as_del": "Igual ao endereço de entrega",
+	"arrival_estimated": "Chegada estimada em",
+	"total": "Total",
+	"thankYou": "Obrigado",
+	"order_placed": "Seu pedido foi realizado com sucesso.",
+	"pickupStore": {
+		"title": "Loja de retirada:",
+		"change": "Alterar",
+		"select": "Selecionar loja de retirada"
+	},
+	"order": {
+		"condition": {
+			"descr": "Ao fazer seu pedido, você concorda com nossos",
+			"terms_conditions": "Termos e Condições",
+			"privacy": "Política de Privacidade"
+		},
+		"return_policy": {
+			"title": "Política de devolução",
+			"return_in": "Você tem {{days}} dias para devolver o produto."
+		},
+		"delivery": {
+			"title": "Entrega",
+			"address": "Endereço de entrega",
+			"option": "Opção de entrega",
+			"track_progress": "Acompanhe o progresso do seu pedido em tempo real",
+			"money-back": "Devoluções com reembolso de 30 dias se mudar de ideia",
+			"missing_address": "Você precisa selecionar ou adicionar um endereço de entrega"
+		},
+		"billing": {
+			"missing_address": "Você precisa selecionar ou adicionar um endereço de faturamento"
+		},
+		"address": {
+			"add_new": "Adicionar novo endereço",
+			"new": "Adicionar novo"
+		},
+		"payment-error": {
+			"title": "Pagamento recusado",
+			"subtitle": "Seu pagamento foi recusado devido ao seguinte erro:",
+			"retry": "Tentar novamente"
+		},
+		"place": "Fazer pedido",
+		"summary": "Resumo do pedido",
+		"your_order": "Seu pedido",
+		"cart_items": "Resumo do pedido ({{count}} itens)",
+		"choose_locker": "Escolher armário",
+		"invalid_state": "Pedido em estado inválido.",
+		"select_locker": "Selecione um armário para continuar com o processo de pagamento.",
+		"empty_cart": "Seu carrinho está vazio",
+		"see_recommendations": "Ver recomendações"
+	},
+	"thank_you": {
+		"congrats": "Obrigado {{name}} pelo seu pedido!",
+		"email_sent": "Enviamos um email para o endereço",
+		"del_address": "Seu pedido está a caminho para o endereço de entrega:",
+		"track_through_email": "Se você quiser acompanhar seu pedido, pode fazê-lo seguindo as instruções que enviamos por email.",
+		"bank": {
+			"details": "O pedido será enviado apenas após a confirmação do recebimento por transferência bancária. Para fazer a transferência bancária, utilize os seguintes dados:",
+			"benef": "BENEFICIÁRIO",
+			"iban": "IBAN",
+			"swift": "BIC",
+			"amount": "VALOR",
+			"reference": "REFERÊNCIA",
+			"note": "É muito importante que você mencione a referência acima na descrição da transferência bancária!"
+		}
+	},
+	"steps": {
+		"Cart": "Carrinho",
+		"Order details": "Detalhes do pedido",
+		"Order summary": "Resumo do pedido",
+		"Place order": "Fazer pedido"
+	}
+}

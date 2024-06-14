@@ -1,0 +1,65 @@
+{
+	"product_review": {
+		"review": "Tu reseña",
+		"add_review": "Agregar una reseña",
+		"buy_again": "¿Estás dispuesto a comprar de nuevo en nuestra tienda en los próximos 12 meses?",
+		"rating_reviews": "Calificación y reseñas",
+		"reviews": "Reseñas",
+		"info": "* La nota puede contener detalles sobre el producto, cómo fue la comunicación con el vendedor y si los productos eran como esperabas.",
+		"upload_pictures": "Subir imágenes",
+		"max_pictures": "Máximo 5 imágenes",
+		"total_reviews": "Este artículo tiene {{total}} reseñas"
+	},
+	"product_price": {
+		"price": "Precio",
+		"best_price": "Precio más bajo en 30 días"
+	},
+	"product_detail": {
+		"rating": "Calificación",
+		"product_id": "ID del producto",
+		"product_sku": "SKU",
+		"arrival_date": "Fecha de llegada",
+		"availability": "Disponibilidad",
+		"characteristics": "Características",
+		"descr": "Descripción del producto",
+		"reviews": "Reseñas",
+		"stock_status": "Estado del stock",
+		"description": "Este artículo tiene",
+		"size": "Tamaño",
+		"color": "Color",
+		"see_details": "Ver detalles",
+		"weight": "Peso",
+		"dimensions": "Dimensiones",
+		"similar_products": "Productos similares"
+	},
+	"product_delivery": {
+		"delivery": "Entrega",
+		"standard": "Entrega estándar",
+		"time": "24 - 48 horas"
+	},
+	"product_reminder": {
+		"notify": "Notificarme",
+		"by_email": "Notificarme sobre el producto por correo electrónico",
+		"favorite": "Favorito"
+	},
+	"share": {
+		"copy": "Copiar",
+		"email": "Correo electrónico",
+		"facebook": "Compartir en Facebook",
+		"whatsapp": "Compartir en Whatsapp"
+	},
+	"preorder": "PREORDEN",
+	"monthly_fees": "Cuotas mensuales",
+	"return_policy": "Política de devoluciones",
+	"return_time": "Devolución en 15 días",
+	"short_descr": "Descripción corta",
+	"returns": "Devoluciones",
+	"promo_banner": "Banner promocional",
+	"guarantee": "Garantía",
+	"days": "días",
+	"read_more": "Leer más",
+	"read_less": "Leer menos",
+	"arrival_date": "Fecha de llegada",
+	"sale_items": "Artículos en oferta",
+	"you_might_like": "También te puede gustar"
+}

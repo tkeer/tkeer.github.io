@@ -1,0 +1,65 @@
+{
+	"product_review": {
+		"review": "La tua recensione",
+		"add_review": "Aggiungi una recensione",
+		"buy_again": "Sei disposto ad acquistare di nuovo nel nostro negozio nei prossimi 12 mesi?",
+		"rating_reviews": "Valutazione e recensioni",
+		"reviews": "Recensioni",
+		"info": "* La nota può contenere dettagli sul prodotto, come è andata la comunicazione con il venditore e se i prodotti erano come ti aspettavi.",
+		"upload_pictures": "Carica immagini",
+		"max_pictures": "Massimo 5 immagini",
+		"total_reviews": "Questo articolo ha {{total}} recensioni"
+	},
+	"product_price": {
+		"price": "Prezzo",
+		"best_price": "Prezzo più basso negli ultimi 30 giorni"
+	},
+	"product_detail": {
+		"rating": "Valutazione",
+		"product_id": "ID prodotto",
+		"product_sku": "SKU",
+		"arrival_date": "Data di arrivo",
+		"availability": "Disponibilità",
+		"characteristics": "Caratteristiche",
+		"descr": "Descrizione del prodotto",
+		"reviews": "Recensioni",
+		"stock_status": "Stato delle scorte",
+		"description": "Questo articolo ha",
+		"size": "Taglia",
+		"color": "Colore",
+		"see_details": "Vedi dettagli",
+		"weight": "Peso",
+		"dimensions": "Dimensioni",
+		"similar_products": "Prodotti simili"
+	},
+	"product_delivery": {
+		"delivery": "Consegna",
+		"standard": "Consegna standard",
+		"time": "24 - 48 ore"
+	},
+	"product_reminder": {
+		"notify": "Notificami",
+		"by_email": "Notificami del prodotto via email",
+		"favorite": "Preferito"
+	},
+	"share": {
+		"copy": "Copia",
+		"email": "Email",
+		"facebook": "Condividi su Facebook",
+		"whatsapp": "Condividi su Whatsapp"
+	},
+	"preorder": "PREORDINE",
+	"monthly_fees": "Tariffe mensili",
+	"return_policy": "Politica di reso",
+	"return_time": "Reso in 15 giorni",
+	"short_descr": "Descrizione breve",
+	"returns": "Resi",
+	"promo_banner": "Banner promozionale",
+	"guarantee": "Garanzia",
+	"days": "giorni",
+	"read_more": "Leggi di più",
+	"read_less": "Leggi di meno",
+	"arrival_date": "Data di arrivo",
+	"sale_items": "Articoli in saldo",
+	"you_might_like": "Potrebbe piacerti anche"
+}

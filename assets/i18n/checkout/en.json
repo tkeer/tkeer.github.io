@@ -1,0 +1,87 @@
+{
+	"observations": "Observations",
+	"add_observations": "Type your observations...",
+	"gift_message": "Gift message",
+	"add_message": "Type your message...",
+	"customizing_image": "Add customizing image for product",
+	"upload_file": "Upload file",
+	"order_details": "Order details",
+	"change": "Change",
+	"billing_address": "Billing address",
+	"delivery_options": "Delivery options",
+	"payment_method": "Payment method",
+	"consent": "Asking for consent by clearly disclosing what the consent is being given to and how the data will be used.",
+	"find_more": "Find out more",
+	"items": "items",
+	"same_as_del": "Same as delivery address",
+	"arrival_estimated": "Arrival estimated at",
+	"total": "Total",
+	"thankYou": "Thank you",
+	"order_placed": "Your order successfully been placed.",
+	"pickupStore": {
+		"title": "Pickup store:",
+		"change": "Change",
+		"select": "Select pickup store"
+	},
+	"order": {
+		"condition": {
+			"descr": "By placing your order you agree to our",
+			"terms_conditions": "Terms and Conditions",
+			"privacy": "Privacy Policy"
+		},
+		"return_policy": {
+			"title": "Return policy",
+			"return_in": "You have {{days}} days to return the product."
+		},
+		"delivery": {
+			"title": "Delivery",
+			"address": "Delivery address",
+			"option": "Delivery option",
+			"track_progress": "Track the progress of your order in real time",
+			"money-back": "30 day money-back returns if you change your mind",
+			"missing_address": "You need to select or add a delivery address"
+		},
+		"billing": {
+			"missing_address": "You need to select or add a billing address"
+		},
+		"address": {
+			"add_new": "Add new address",
+			"new": "Add new"
+		},
+		"payment-error": {
+			"title": "Payment declined",
+			"subtitle": "Your payment was declined due to following error:",
+			"retry": "Retry payment"
+		},
+		"place": "Place your order",
+		"summary": "Order summary",
+		"your_order": "Your order",
+		"cart_items": "Order summary ({{count}} items)",
+		"choose_locker": "Choose locker",
+		"invalid_state": "Comanda este în stare nevalidă.",
+		"select_locker": "Please select a locker in order to continue the checkout process.",
+		"empty_cart": "Your cart is empty",
+		"see_recommendations": "See recommendations"
+	},
+	"thank_you": {
+		"congrats": "Thank you {{name}} for your order!",
+		"email_sent": "We sent an email to address",
+		"del_address": "Your order is on going at delivery address:",
+		"track_through_email": "If you want to track your order you can do it by following the instructions we sent you by email.",
+		"bank": {
+			"details": "The order will be shipped only after confirmation of receipt by bank transfer. To make the bank transfer, please use the following data:",
+			"benef": "BENEFICIARY",
+			"iban": "IBAN",
+			"swift": "BIC",
+			"amount": "AMOUNT",
+			"reference": "REFERENCE",
+			"note": "It is very important that you mention the above reference in the description of the bank transfer!"
+		}
+	},
+	"steps": {
+		"Cart": "Cart",
+		"Order details": "Order details",
+		"Order summary": "Order summary",
+		"Place order": "Place order"
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"auth-title": "Autenticação",
+	"account": {
+		"locked-until": "Por razões de segurança, sua conta está bloqueada por",
+		"create-new": "Se você perdeu o acesso à conta, pode criar uma nova",
+		"create-title": "Criar conta"
+	},
+	"minutes": "minutos",
+	"locked": {
+		"duration": "A conta está bloqueada por {{minutes}} minutos"
+	},
+	"confirmation-otp-sent": "Enviamos um código por e-mail, por favor preencha o campo abaixo. (Opcional: Você tem um link no e-mail como confirmação alternativa)",
+	"send-otp": "Enviar código OTP",
+	"security-questions": {
+		"title": "Perguntas de segurança",
+		"select": "Selecione 3 perguntas de segurança",
+		"missing": "Como uma medida de segurança aumentada, configure as respostas para 3 das seguintes perguntas de segurança. Você pode pular esta etapa por agora, embora isso não seja recomendado, pois se você perder o acesso ao seu endereço de e-mail, não poderá recuperar o acesso à sua conta.",
+		"skip-btn": "Pular por agora",
+		"ans_required": "A resposta à pergunta não deve estar vazia",
+		"atleast-3": "Escolha pelo menos 3 perguntas.",
+		"question": "Pergunta #{{i}}",
+		"answer": "Resposta #{{i}}"
+	},
+	"question": "Pergunta",
+	"answer": "Resposta",
+	"reset-password": {
+		"reset": "Redefinir senha",
+		"reset-your": "Redefinir sua senha",
+		"check-email": "Por favor, verifique seu e-mail para acessar o link de redefinição de senha",
+		"input-email": "Digite seu endereço de e-mail para redefinir a senha.",
+		"updated": "Sua senha foi alterada com sucesso!",
+		"set-new": "Definir uma nova senha",
+		"type_password": "Digite sua nova senha",
+		"retype_password": "Repita sua nova senha"
+	},
+	"forgot-email": {
+		"current-email": "Endereço de e-mail atual",
+		"updated": "Seu endereço de e-mail foi alterado com sucesso!",
+		"input-new": "Definir um novo endereço de e-mail",
+		"import-history": "O histórico e todos os detalhes serão importados do perdido.",
+		"email-changed": "Seu endereço de e-mail foi alterado com sucesso"
+	},
+	"email-label": "Endereço de e-mail",
+	"zaidra-network": {
+		"account-exist": "Este site faz parte da rede Zaídra e parece que você já tem uma conta configurada com uma senha em outro site da rede.",
+		"same-pw-for-network": "Observe que você pode usar a mesma senha em todos os sites da Rede Zaídra onde você já fez login: {{sites}}, etc."
+	},
+	"existing_account": "loja online onde você já tem uma conta configurada com uma senha",
+	"same_email": "Portanto, você pode usar o mesmo endereço de e-mail e senha para autenticação, seus dados estão seguros em todos os sites dentro da rede Zaídra.",
+	"password_requirements": "A senha deve ter pelo menos 8 caracteres de comprimento e deve ter pelo menos uma letra maiúscula, uma letra minúscula, um dígito e um caractere especial."
+}

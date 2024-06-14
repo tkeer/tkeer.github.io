@@ -1,0 +1,25 @@
+{
+	"estimated_delivery": "Estimated delivery",
+	"proceed_checkout": "Proceed to checkout",
+	"similar_products": "Similar products from other stores within the Zaídra network",
+	"empty_cart": "Your cart is empty",
+	"see_recommendations": "See recommendations",
+	"total_product": "Total product",
+	"delivery": "Delivery",
+	"subtotal": "Subtotal",
+	"discount": "Discount",
+	"summary_order": "Summary order",
+	"total_products": "Total products",
+	"total": "Total",
+	"voucher_code": {
+		"add": "Add a voucher code",
+		"success": "Voucher code applied successfully."
+	},
+	"products_not_found": "We did not find these products at better prices in other stores within the Zaídra network.",
+	"steps": {
+		"Cart": "Cart",
+		"Order details": "Order details",
+		"Order summary": "Order summary",
+		"Place order": "Place order"
+	}
+}

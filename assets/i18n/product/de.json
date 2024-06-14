@@ -1,0 +1,65 @@
+{
+	"product_review": {
+		"review": "Ihre Bewertung",
+		"add_review": "Bewertung hinzufügen",
+		"buy_again": "Sind Sie bereit, in den nächsten 12 Monaten erneut bei uns einzukaufen?",
+		"rating_reviews": "Bewertungen und Rezensionen",
+		"reviews": "Rezensionen",
+		"info": "* Die Notiz kann Details zum Produkt, zur Kommunikation mit dem Verkäufer und zur Erwartung der Produkte enthalten.",
+		"upload_pictures": "Bilder hochladen",
+		"max_pictures": "Maximal 5 Bilder",
+		"total_reviews": "Dieser Artikel hat {{total}} Bewertungen"
+	},
+	"product_price": {
+		"price": "Preis",
+		"best_price": "Niedrigster Preis in 30 Tagen"
+	},
+	"product_detail": {
+		"rating": "Bewertung",
+		"product_id": "Produkt ID",
+		"product_sku": "SKU",
+		"arrival_date": "Ankunftsdatum",
+		"availability": "Verfügbarkeit",
+		"characteristics": "Eigenschaften",
+		"descr": "Produktbeschreibung",
+		"reviews": "Rezensionen",
+		"stock_status": "Lagerstatus",
+		"description": "Dieser Artikel hat",
+		"size": "Größe",
+		"color": "Farbe",
+		"see_details": "Details ansehen",
+		"weight": "Gewicht",
+		"dimensions": "Abmessungen",
+		"similar_products": "Ähnliche Produkte"
+	},
+	"product_delivery": {
+		"delivery": "Lieferung",
+		"standard": "Standardlieferung",
+		"time": "24 - 48 Stunden"
+	},
+	"product_reminder": {
+		"notify": "Benachrichtigen Sie mich",
+		"by_email": "Benachrichtigen Sie mich über das Produkt per E-Mail",
+		"favorite": "Favorit"
+	},
+	"share": {
+		"copy": "Kopieren",
+		"email": "E-Mail",
+		"facebook": "Auf Facebook teilen",
+		"whatsapp": "Auf Whatsapp teilen"
+	},
+	"preorder": "VORBESTELLUNG",
+	"monthly_fees": "Monatliche Gebühren",
+	"return_policy": "Rückgaberecht",
+	"return_time": "Rückgabe in 15 Tagen",
+	"short_descr": "Kurzbeschreibung",
+	"returns": "Rücksendungen",
+	"promo_banner": "Promo-Banner",
+	"guarantee": "Garantie",
+	"days": "Tage",
+	"read_more": "Mehr lesen",
+	"read_less": "Weniger lesen",
+	"arrival_date": "Ankunftsdatum",
+	"sale_items": "Verkaufsartikel",
+	"you_might_like": "Das könnte Ihnen auch gefallen"
+}

@@ -1,0 +1,25 @@
+{
+	"estimated_delivery": "Livrare estimată",
+	"proceed_checkout": "Finalizează comanda",
+	"similar_products": "Produse similare din alte magazine din rețeaua Zaídra",
+	"empty_cart": "Coșul tău este gol",
+	"see_recommendations": "Vezi recomandările",
+	"total_product": "Produs total",
+	"delivery": "Livrare",
+	"subtotal": "Subtotal",
+	"discount": "Reducere",
+	"summary_order": "Rezumat comandă",
+	"total_products": "Total produse",
+	"total": "Total",
+	"voucher_code": {
+		"add": "Adaugă un cod de discount",
+		"success": "Codul a fost aplicat cu succes."
+	},
+	"products_not_found": "Nu am găsit aceste produse la prețuri mai bune în alte magazine din cadrul rețelei Zaídra.",
+	"steps": {
+		"Cart": "Coș",
+		"Order details": "Detalii comandă",
+		"Order summary": "Rezumatul comenzii",
+		"Place order": "Plasează comanda"
+	}
+}

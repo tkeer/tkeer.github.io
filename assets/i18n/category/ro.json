@@ -1,1 +1,25 @@
-{}
+{
+	"filters": {
+		"categories": "Categorii",
+		"product": "Produs",
+		"brands": "Producător",
+		"priceRanges": "Preț",
+		"rating": "Rating minim"
+	},
+	"desc": "Cele mai noi",
+	"id_sort,desc": "Cele mai noi",
+	"sellingPriceWithVat,asc": "Preț ↑",
+	"sellingPriceWithVat,desc": "Preț ↓",
+	"rating,asc": "Rating ↑",
+	"rating,desc": "Rating ↓",
+	"asc": "Cele mai vechi",
+	"cat_filters": "Filtre",
+	"view_all": "Vezi toate categoriile",
+	"del_filters": "Șterge filtrele",
+	"view_products": "Vezi produsele",
+	"page": "pagina",
+	"sort_by": "Sortează după",
+	"read_more": "Citește mai mult",
+	"read_less": "Restrânge",
+	"num_products_found": "{{count}} produse găsite"
+}

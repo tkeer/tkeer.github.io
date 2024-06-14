@@ -1,0 +1,222 @@
+{
+	"return": {
+		"list": {
+			"eligible_product": "Products that are eligible for the return",
+			"return_until": "You can return this until",
+			"request": "Return request",
+			"method": "Return method",
+			"contact_details": "Contact details",
+			"not_found": "No eligible product found for the return",
+			"title": "Return products",
+			"filter_title": "Order returns in the last:",
+			"empty": "You don't have any returned product.",
+			"all_returns": "All returns",
+			"new": "New return"
+		},
+		"product": {
+			"condition": "The product condition",
+			"reason": "The reason of the return"
+		},
+		"title": {
+			"product": "1. Please select the product you want to return",
+			"condition": "2. Please select the condition and reason of return",
+			"delivery": "3. Please select the return delivery option",
+			"refund": "4. Refund details"
+		},
+		"condition": {
+			"sealed_product": "Sealed product",
+			"functional_product": "Functional product",
+			"broken_product": "Broken product"
+		},
+		"reason": {
+			"found_better": "Found better",
+			"received_wrong_product": "Received wrong product",
+			"ordered_wrong_product": "Ordered wrong product"
+		},
+		"delivery": {
+			"currier": "Door pick-up",
+			"choose_locker": "Choose locker",
+			"easybox": "Easybox",
+			"personal_delivery": "Self drop-off",
+			"other_option": "Other option",
+			"delivery_options": "Delivery options",
+			"error": "The shop doesn’t have a return shipping method defined. Please contact the store using the data listed under the Contact page."
+		},
+		"refund": {
+			"finish": "Finish the return",
+			"swift": "SWIFT / BIC (only for international)",
+			"bank": "Bank",
+			"iban": "IBAN",
+			"full-name": "Full name"
+		},
+		"returned": {
+			"registered": "The return with the number #{{number}} was registered."
+		}
+	},
+	"order_history_menu": {
+		"track": "Track order",
+		"repeat": "Repeat order / Buy again",
+		"set_recurrence": "Set recurrence",
+		"product_review": "Leave a product review",
+		"download_invoice": "Download invoice",
+		"cancel_order": "Cancel order",
+		"warranty_certificate": "Download warrant certificate",
+		"order": "Order"
+	},
+	"order_review": {
+		"review": "Your review",
+		"rating": "Your rating",
+		"descr": "Description",
+		"info": "* The note can contain details about the product, how the communication with the seller went and if products were as you expected.",
+		"upload_pics": "Upload pictures",
+		"max_5": "Max 5 pictures",
+		"buy_again": "Are you willing to purchase again from our store in the future?",
+		"add": "Add review",
+		"order_with_multiline": "Order with multiple items:",
+		"select_item": "Select the item"
+	},
+	"recurring_orders": {
+		"title": "Recurring orders"
+	},
+	"recurring_order": {
+		"title": "Recurring order",
+		"fill_form": "Please fill in the details for recurring order",
+		"first_order_date": "First order will start with the following date:",
+		"payment_method": "*the payment method is the default one - Visa card ending in",
+		"added-successfully": "Order recurrence added successfully.",
+		"type-interval": "Type in recurring interval",
+		"validation": {
+			"max": "Recurrence period should be equal or smaller then 99"
+		}
+	},
+	"order_history": {
+		"filter_title": "Order placed in the last:",
+		"order_placed": "Order placed:",
+		"items": "items / Total:",
+		"delivered_to": "Delivered to:",
+		"open_details": "Open order details",
+		"title": "Order history"
+	},
+	"favorite": {
+		"list": "Favorite list",
+		"clear_all": "Clear all",
+		"empty-list": "Your list is empty.",
+		"see-recommendations": "See recommendations",
+		"buy_again": "Buy again"
+	},
+	"logout": "Logout",
+	"my_account": "My account",
+	"addresses": {
+		"my": "My addresses",
+		"my_billing": "My billing addresses",
+		"add_new": "Add new address",
+		"add_new?": "Do you want to add a new address?",
+		"empty": "",
+		"manage": "Manage addresses"
+	},
+	"payment_methods": {
+		"title": "Payment methods",
+		"empty": "No payment method added",
+		"manage": "Manage payments",
+		"card": {
+			"name": "Name on the card",
+			"add": "Add new card",
+			"number": "Card number",
+			"month": "Month",
+			"year": "Year",
+			"cvv": "CVV"
+		}
+	},
+	"login_security": {
+		"title": "Login & security",
+		"questions": "Security questions",
+		"answered_questions": "Security questions ({{count}} of 3)",
+		"question": "Question",
+		"answer": "Answer",
+		"none_selected": [
+			"No question has been selected. You can add questions.",
+			"here"
+		],
+		"preview": "Preview logins",
+		"recent": "recent logins",
+		"manage": "Manage login & security",
+		"pw": "Password",
+		"code": "Code",
+		"protection": "Protection",
+		"in_use": "In use",
+		"inactive": "Inactive",
+		"ans_required": "The answer to the question should not be empty"
+	},
+	"password_login": {
+		"title": "Setting up password login",
+		"descr": "You opt in for a classic password login. Please fill in below the password you want to use for your login in your Zaídra ecosystem (all oonline shops that prompt you for a DIOS password).",
+		"note": "*Note: If you didn't complete the security questions, please finish that steps.",
+		"requirements": "At least 8 characters and 2 numbers",
+		"type_password": "Type password",
+		"repeat_password": "Retype password"
+	},
+	"profile": {
+		"last_name": "Last name",
+		"social_title": "Social title",
+		"birthday": "Birth Day",
+		"month": "Month",
+		"year": "Year"
+	},
+	"gift_finder": {
+		"find": "Find the perfect gift",
+		"fill_form": "Fill the below form with as much details as possible so we can find for you the perfect gift.",
+		"search": "Search",
+		"form": {
+			"low_price": "Min price",
+			"high_price": "Max price",
+			"interest": "Interest",
+			"select-filters": "Select one or multiple",
+			"Male": "Male",
+			"Female": "Female",
+			"Unisex": "Unisex",
+			"No selection": "No selection"
+		}
+	},
+	"order_detail": {
+		"subtotal": "Subtotal",
+		"shipping": "Shipping",
+		"other_fee": "Other fees",
+		"total": "Total",
+		"title": "Order Details"
+	},
+	"select_date": "Select date",
+	"zaidra_products": "Products from other stores within the Zaídra network",
+	"no_gift_found": "No gift found for specified criteria",
+	"interests": "Interests",
+	"order_no": "Order: #",
+	"order_placed": "Order placed in",
+	"shipping_no": "Shipping no",
+	"shipping_info": "Shipping info",
+	"billing_info": "Billing info",
+	"order_address": {
+		"order_method": "Shipping method",
+		"name": "Name",
+		"full-address": "Address"
+	},
+	"payment_method": "Payment method",
+	"payment_status": "Payment status",
+	"qty": "Quantity",
+	"personal_delivery": "Personal delivery",
+	"edit_profile": "Edit profile",
+	"favorite_list": "Favourite list",
+	"my_orders": "My orders",
+	"returns": "Returns",
+	"account_details": "Account details",
+	"my_billing_details": "My billing details",
+	"orderHistory": "Order history",
+	"account": {
+		"order_cancelled": "Order is cancelled."
+	},
+	"form": {
+		"female": "Female",
+		"male": "Male",
+		"no-selection": "No selection",
+		"sex": "Sex",
+		"unisex": "Unisex"
+	}
+}
